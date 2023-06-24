@@ -1,8 +1,8 @@
 ---
 title: "Roleque restaurant in Siem Reap"
-date: "2023-06-01"
-categories: 
-  - "blog"
+publishDate: "13 May 2022"
+description: "Hello world!!! This is an example blog post showcasing some of the cool stuff Astro Cactus theme can do."
+tags: ["example", "blog", "cool"]
 ---
 
 Roleque is a popular restaurant in Siem Reap that serves a variety of Khmer and international dishes. The restaurant is located in the heart of the city, making it a convenient option for tourists. The interior of the restaurant is spacious and air-conditioned, making it a comfortable place to dine. The staff is friendly and attentive, and the food is delicious.
