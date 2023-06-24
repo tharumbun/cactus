@@ -1,8 +1,8 @@
 ---
 title: "Khmer writers"
-date: "2023-06-04"
-categories: 
-  - "blog"
+publishDate: "13 May 2022"
+description: "Hello world!!! This is an example blog post showcasing some of the cool stuff Astro Cactus theme can do."
+tags: ["example", "blog", "cool"]
 ---
 
 These are just a few of the many talented Khmer authors writing today. Their work provides a unique perspective on Cambodian culture and history, and it is sure to entertain and enlighten readers of all backgrounds.
