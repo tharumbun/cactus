@@ -13,7 +13,7 @@ const datetime = date.toISOString();
 const postDate = getFormattedDate(date);
 
 // Remove "posts" from the slug
-const slugWithoutPosts = post.slug.replace("posts/", "");
+const slugWithoutPosts = post.slug.slice(6);
 
 <time datetime={datetime} class="min-w-[120px] text-gray-500">{postDate}</time>
 <Element>
