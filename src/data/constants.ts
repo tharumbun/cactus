@@ -7,10 +7,6 @@ export const MENU_LINKS = [
 		title: "About",
 		path: "/about/",
 	},
-	{
-		title: "Blog",
-		path: "/",
-	},
 ];
 
 // ! Remember to add your own socials
