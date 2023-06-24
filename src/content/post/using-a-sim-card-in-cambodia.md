@@ -1,8 +1,8 @@
 ---
 title: "Using a SIM Card in Cambodia"
-date: "2023-06-12"
-categories: 
-  - "blog"
+publishDate: "13 May 2022"
+description: "Hello world!!! This is an example blog post showcasing some of the cool stuff Astro Cactus theme can do."
+tags: ["example", "blog", "cool"]
 ---
 
 Cambodia has a thriving telecommunications industry, with four major mobile operators: Cellcard, Metfone, and Smart. All four operators offer prepaid SIM cards that can be purchased at most convenience stores and mobile phone shops.
