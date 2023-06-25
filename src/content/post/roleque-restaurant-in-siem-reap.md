@@ -1,7 +1,7 @@
 ---
 title: "Roleque restaurant in Siem Reap"
 publishDate: "13 May 2022"
-description: Roleque is a popular restaurant in Siem Reap
+description: Roleque is a popular restaurant in Siem Reap that serves a variety of Khmer and international dishes
 tags: ["blog"]
 ---
 
