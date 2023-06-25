@@ -1,12 +1,11 @@
 ---
 title: "How to cook Khmer Amok"
-date: "2023-01-17"
-categories: 
-  - "food"
-  - "blog"
+publishDate: "28 May 2023"
+description: Are you looking for simple recipe to cook your first Amok?
+tags: ["blog"]
 ---
 
-Are you looking for simple recipe to cook your first Amok? This is one variation of the recipe and you can adjust the ingredients and the cooking methods to your preference.
+This is one variation of the recipe and you can adjust the ingredients and the cooking methods to your preference.
 
 Amok is a popular Cambodian dish that is made with fish or chicken that is steamed in a banana leaf with a mixture of coconut milk, lemongrass, and other herbs and spices.
 
