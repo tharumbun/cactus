@@ -1,9 +1,8 @@
 ---
 title: "Who is the best chef in Cambodia?"
-date: "2023-02-06"
-categories: 
-  - "food"
-  - "blog"
+publishDate: "28 May 2023"
+description: Chef Nak is Cambodia's first female celebrity chef
+tags: ["blog"]
 ---
 
 ### Most celebrated chefs in Cambodia
