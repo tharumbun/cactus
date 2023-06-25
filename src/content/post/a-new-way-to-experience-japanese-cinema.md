@@ -1,8 +1,8 @@
 ---
 title: "A new way to experience Japanese cinema"
-date: "2023-05-28"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: a new streaming program aimed at overseas audiences
+tags: ["blog"]
 ---
 
 JFF + INDEPENDENT CINEMA: A New Way to Experience Japanese Cinema
