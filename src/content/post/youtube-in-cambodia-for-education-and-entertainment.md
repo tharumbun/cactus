@@ -1,7 +1,7 @@
 ---
 title: "YouTube in Cambodia: A growing force for education and entertainment"
 publishDate: "28 May 2023"
-description: It provides access to a wide variety of information and entertainment, and it can be used to learn new things, connect with others, and share your own creativity.
+description: It provides access to a wide variety of information and entertainment, and it can be used to learn new things
 tags: ["blog"]
 ---
 
