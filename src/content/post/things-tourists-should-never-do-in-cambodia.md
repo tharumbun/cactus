@@ -1,11 +1,11 @@
 ---
 title: "Things tourists should never do in Cambodia"
 publishDate: "28 May 2023"
-description: Buddhism is the official religion of Cambodia.
+description: It's important to understand these to avoid misconducts when you're in the country
 tags: ["blog"]
 ---
 
-It's important to understand these to avoid misconducts when you're in the country. Better bring back the wonderful experience from the kingdom of the wonder.
+Better bring back the wonderful experience from the kingdom of the wonder.
 
 ### Do not exploit the local people
 
