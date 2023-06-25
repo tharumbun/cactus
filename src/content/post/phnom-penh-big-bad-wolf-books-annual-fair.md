@@ -1,8 +1,8 @@
 ---
-title: "Big Bad Wolf Books fair 2023: a book lover's dream!"
-date: "2023-02-14"
-categories: 
-  - "blog"
+title: "Big Bad Wolf Books fair 2023"
+publishDate: "28 May 2023"
+description: The Big Bad Wolf Books Annual Book Fair is coming back
+tags: ["blog"]
 ---
 
 Get ready, bookworms! The Big Bad Wolf Books Annual Book Fair is coming back to the Olympia Shopping Mall from February 22 to March 12, 2023 \[extended\], and it's going to be bigger and better than ever before!
