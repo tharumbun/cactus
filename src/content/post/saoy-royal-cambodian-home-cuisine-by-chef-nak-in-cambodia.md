@@ -1,13 +1,13 @@
 ---
-title: "SAOY - Royal Cambodian home cuisine by Chef Nak in Cambodia"
-date: "2023-05-29"
-categories: 
-  - "blog"
+title: "Royal Cambodian home cuisine book by Chef Nak in Cambodia"
+publishDate: "13 May 2022"
+description: The cookbook features over 100 Jo recipes from the royal court
+tags: ["blog"]
 ---
 
 Cambodian cuisine is a delicious and diverse blend of flavors, and Chef Nak's cookbook, [SAOY - Royal Cambodian Home Cuisine](https://www.amazon.com/gp/product/9924966317/?tag=tbun27_cambodia-20), is the perfect way to explore this unique culinary tradition.
 
-The cookbook features over 100 Jo recipes from the royal court, all of which have been painstakingly recreated by Chef Nak. The recipes are accompanied by stunning photography and original artwork by young Cambodian artists.
+The cookbook features over 100 recipes from the royal court, all of which have been painstakingly recreated by Chef Nak. The recipes are accompanied by stunning photography and original artwork by young Cambodian artists.
 
 ### SAOY - Royal Cambodian home cuisine: a must-have for any foodie
 
