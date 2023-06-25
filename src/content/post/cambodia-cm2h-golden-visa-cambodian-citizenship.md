@@ -1,5 +1,5 @@
 ---
-title: "CM2H program: Your pathway to a 10-Year Golden visa and Cambodian citizenship"
+title: "A 10-Year Golden visa and Cambodian citizenship"
 publishDate: "28 May 2023"
 description: The CM2H program is open to all countries recognized by Cambodia
 tags: ["blog"]
