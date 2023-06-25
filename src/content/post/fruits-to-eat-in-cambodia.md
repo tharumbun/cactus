@@ -1,8 +1,8 @@
 ---
-title: "Fruits to eat in Cambodia"
-date: "2023-04-19"
-categories: 
-  - "food"
+title: "Cambodian fruits you should taste"
+publishDate: "28 May 2023"
+description: Durian Durian is a spiky fruit that is known for its strong smell
+tags: ["blog"]
 ---
 
 Here are 5 fruits to taste when in Cambodia:
