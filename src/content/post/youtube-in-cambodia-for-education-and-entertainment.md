@@ -1,7 +1,7 @@
 ---
 title: "YouTube in Cambodia: A growing force for education and entertainment"
 publishDate: "28 May 2023"
-description:  In fact, YouTube is the most popular social media platform in Cambodia, with over 10 million active users.
+description:  In fact, YouTube is the most popular social media platform in Cambodia
 tags: ["blog"]
 ---
 
