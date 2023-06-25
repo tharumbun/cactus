@@ -1,8 +1,8 @@
 ---
 title: "YouTube in Cambodia: A growing force for education and entertainment"
-date: "2023-05-01"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: It provides access to a wide variety of information and entertainment, and it can be used to learn new things, connect with others, and share your own creativity.
+tags: ["blog"]
 ---
 
 YouTube is a popular video-sharing platform that is used by people all over the world, including in Cambodia. In fact, YouTube is the most popular social media platform in Cambodia, with over 10 million active users.
