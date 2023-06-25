@@ -1,8 +1,8 @@
 ---
 title: "Cambodia most influential Buddhist monks"
-date: "2023-05-23"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Venerable Kou Sopheap is very popular on Facebook in Cambodia. He has over 1 million followers on his Facebook page
+tags: ["blog"]
 ---
 
 ### Venerable Kou Sopheap
