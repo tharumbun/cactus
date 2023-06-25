@@ -1,7 +1,7 @@
 ---
 title: "Internships in Cambodia?"
 publishDate: "28 May 2023"
-description: The benefits of internships in Cambodia are many
+description: There are several industries in Cambodia that offer internship opportunities
 tags: ["blog"]
 ---
 
