@@ -1,8 +1,8 @@
 ---
 title: "5G technology in Cambodia"
-date: "2023-02-02"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: The Cambodian government has set a target of 2023
+tags: ["blog"]
 ---
 
 The introduction of 5G technology in Cambodia is scheduled for 2021. In order to support 5G networks, the Cambodian government and mobile service providers have been upgrading the nation's telecom infrastructure.
