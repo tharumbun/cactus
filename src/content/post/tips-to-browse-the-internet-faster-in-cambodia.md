@@ -1,8 +1,8 @@
 ---
 title: "Tips to browse the Internet faster in Cambodia"
-date: "2023-02-14"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Here are some tips to help you browse the internet faster
+tags: ["blog"]
 ---
 
 When in Cambodia, if browsing the Internet is not safe and fast, you may consider using some of the tips here. Here are some tips to help you browse the internet faster:
