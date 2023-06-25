@@ -1,10 +1,9 @@
 ---
 title: "Books about Cambodia"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: From the grandeur of Angkor Wat to the tragedy of the Khmer Rouge
+tags: ["blog"]
 ---
-
 Welcome to the wonderful world of Cambodia! If you're planning a visit to this fascinating country, or just have a deep interest in its history and culture, you've come to the right place. From the grandeur of Angkor Wat to the tragedy of the Khmer Rouge, Cambodia is a nation with a rich and complex history that is ripe for exploration. Whether you're a history buff, a traveler, or simply someone who wants to learn more about this incredible country, these recommended books about Cambodia and its people are the perfect way to deepen your understanding.
 
 With a focus on the country's history, culture, language, cuisine, and politics, these books offer a comprehensive look at Cambodia's past, present, and future. From learning about the resilience of the Khmer people to discovering the secrets of traditional Cambodian cooking, you'll be able to delve deeper into this amazing country and its unique culture. Whether you're interested in the country's dark history of the Cambodian genocide or its current political landscape, these books have something for everyone. So why wait? Start exploring the world of Cambodia today!
