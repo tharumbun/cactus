@@ -1,8 +1,8 @@
 ---
 title: "Who's Cambodia's richest man?"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: It is difficult to compile a definitive list of the wealthiest people in Cambodia
+tags: ["blog"]
 ---
 
 There are a number of wealthy individuals in Cambodia, many of whom have made their fortunes through business and investment. It is difficult to compile a definitive list of the wealthiest people in Cambodia as many people do not publicly disclose their net worth, but here are some of the most well-known wealthy individuals in Cambodia:
