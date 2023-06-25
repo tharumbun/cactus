@@ -1,7 +1,7 @@
 ---
 title: "5G technology in Cambodia"
 publishDate: "28 May 2023"
-description: The Cambodian government has set a target of 2023
+description: Several mobile operators in Cambodia have expressed interest in
 tags: ["blog"]
 ---
 
