@@ -1,8 +1,8 @@
 ---
 title: "Blogging in Cambodia"
-date: "2023-01-25"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Blogging in Cambodia can be a great way to share your experiences
+tags: ["blog"]
 ---
 
 Blogging in Cambodia can be a great way to share your experiences and perspectives on the country and its culture. However, there are a few things to be aware of when blogging in Cambodia.
