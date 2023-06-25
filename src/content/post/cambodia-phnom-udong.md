@@ -1,9 +1,8 @@
 ---
 title: "Phnom Udong"
-date: "2023-04-18"
-categories: 
-  - "food"
-  - "blog"
+publishDate: "28 May 2023"
+description: Udong Mountain is a popular tourist destination in Cambodia
+tags: ["blog"]
 ---
 
 Udong Mountain is a popular tourist destination in Cambodia, known for its beautiful scenery, temples, and food.
