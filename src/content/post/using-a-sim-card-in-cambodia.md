@@ -1,11 +1,11 @@
 ---
 title: "Using a SIM Card in Cambodia"
 publishDate: "13 May 2022"
-description: Cambodia has a thriving telecommunications industry
+description: All mobile operators in Cambodia require you to register your SIM card with your passport or other form of ID
 tags: ["blog"]
 ---
 
-Cambodia has a thriving telecommunications industry, with four major mobile operators: Cellcard, Metfone, and Smart. All four operators offer prepaid SIM cards that can be purchased at most convenience stores and mobile phone shops.
+Cambodia has a thriving telecommunications industry, with three major mobile operators: Cellcard, Metfone, and Smart. All three operators offer prepaid SIM cards that can be purchased at most convenience stores and mobile phone shops.
 
 ## Using a SIM Card in Cambodia: A Guide for Travelers
 
