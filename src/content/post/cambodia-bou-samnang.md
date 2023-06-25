@@ -1,8 +1,8 @@
 ---
 title: "Bou Samnang: a Cambodian runner who inspires us all"
-date: "2023-05-11"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Bou Samnang finished last in the race, but her determination and perseverance in the face of adversity won her the hearts of fans around the world
+tags: ["blog"]
 ---
 
 Bou Samnang is a Cambodian long-distance runner who competed in the women's 5000 meters at the 2023 Southeast Asian Games. She finished last in the race, but her determination and perseverance in the face of adversity won her the hearts of fans around the world.
