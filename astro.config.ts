@@ -7,11 +7,6 @@ import prefetch from "@astrojs/prefetch";
 
 // https://astro.build/config
 
-export default {
-	components: {
-		PostPreview,
-	},
-};
 
 export default defineConfig({
 	// ! Please remember to replace the following site property with your own domain
