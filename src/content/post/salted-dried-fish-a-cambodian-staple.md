@@ -1,8 +1,8 @@
 ---
 title: "Salted, dried fish: a Cambodian staple"
-date: "2023-04-10"
-categories: 
-  - "food"
+publishDate: "28 May 2023"
+description: Salted, dried fish has been a part of the Cambodian diet for centuries
+tags: ["blog"]
 ---
 
 Salted, dried fish is a staple food in Cambodia. It is made by salting and drying fish, which helps to preserve it and make it last longer. Salted, dried fish is a versatile ingredient that can be used in a variety of dishes, both savory and sweet.
