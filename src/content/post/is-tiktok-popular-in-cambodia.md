@@ -1,8 +1,8 @@
 ---
 title: "Is TikTok popular in Cambodia?"
-date: "2023-04-29"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: There are a few reasons why TikTok has become popular in Cambodia
+tags: ["blog"]
 ---
 
 TikTok is popular in Cambodia for a number of reasons.
