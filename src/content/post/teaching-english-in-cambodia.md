@@ -1,8 +1,8 @@
 ---
 title: "Teaching English in Cambodia"
-date: "2023-03-13"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: The benefits of teaching English in Cambodia are many
+tags: ["blog"]
 ---
 
 Teaching English in Cambodia is an excellent opportunity for those who want to explore a new culture while making a positive impact on the lives of local people. Cambodia has a high demand for English teachers, and there are numerous opportunities to teach English in schools, language centers, and community organizations across the country.
