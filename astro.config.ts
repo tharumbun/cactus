@@ -34,4 +34,12 @@ export default defineConfig({
 			exclude: ["@resvg/resvg-js"],
 		},
 	},
+
+export default {
+	components: {
+		PostPreview,
+	},
+};
+
+  
 });
