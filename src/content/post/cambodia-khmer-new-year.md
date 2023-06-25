@@ -1,8 +1,8 @@
 ---
 title: "Khmer New Year"
-date: "2023-04-13"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: you will learn about the history of Khmer New Year and why Cambodians love to celebrate
+tags: ["blog"]
 ---
 
 Khmer New Year, also known as Choul Chnam Thmey, is one of the most important festivals celebrated in Cambodia. It is a time of joy, family reunions, and spiritual reflection.
