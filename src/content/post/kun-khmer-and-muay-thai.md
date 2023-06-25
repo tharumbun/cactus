@@ -1,8 +1,8 @@
 ---
 title: "Kun Khmer and Muay Thai"
-date: "2023-01-24"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: The origins of Kun Khmer can be traced back to ancient Cambodia
+tags: ["blog"]
 ---
 
 Kun Khmer, also known as Cambodian boxing, is a traditional martial art and combat sport that has a rich history and cultural significance in Cambodia. This sport, which uses strikes with the hands, feet, elbows, and knees, as well as grappling and clinching techniques, has been practiced in Cambodia for centuries and is an integral part of the country's cultural heritage.
