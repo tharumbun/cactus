@@ -1,8 +1,8 @@
 ---
-title: "Pet shops in Phnom Penh: a guide to finding your perfect pet"
-date: "2023-02-10"
-categories: 
-  - "blog"
+title: "Pet shops in Phnom Penh"
+publishDate: "28 May 2023"
+description: Whether you're looking for a cute and cuddly kitten
+tags: ["blog"]
 ---
 
 Phnom Penh is a bustling city full of life and energy, and what better way to experience it than by adding a furry companion to your family? If you're looking to adopt a pet, there are plenty of pet shops in Phnom Penh that cater to every kind of pet lover, from first-time owners to seasoned pet parents.
