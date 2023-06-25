@@ -1,7 +1,7 @@
 ---
 title: "How to travel cheap in Cambodia"
 publishDate: "28 May 2023"
-description: Cambodia has a relatively affordable public transportation system
+description: Cambodia has a relatively affordable public transportation system that includes buses
 tags: ["blog"]
 ---
 
