@@ -1,9 +1,10 @@
 ---
 title: "The best Khmer name for your baby?"
-date: "2023-01-11"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: It's worth noting that these names have different meanings
+tags: ["blog"]
 ---
+
 
 It's worth noting that these names have different meanings depending on the context, and the spelling might have variations. It's also worth mentioning that Khmer names are often composed of two or more words that convey a specific meaning and are chosen with care by parents.
 
