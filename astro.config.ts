@@ -6,6 +6,13 @@ import sitemap from "@astrojs/sitemap";
 import prefetch from "@astrojs/prefetch";
 
 // https://astro.build/config
+
+export default {
+	components: {
+		PostPreview,
+	},
+};
+
 export default defineConfig({
 	// ! Please remember to replace the following site property with your own domain
 	site: "https://cambopedia.com/",
@@ -33,13 +40,5 @@ export default defineConfig({
 		optimizeDeps: {
 			exclude: ["@resvg/resvg-js"],
 		},
-	},
-
-export default {
-	components: {
-		PostPreview,
-	},
-};
-
-  
+	},  
 });
