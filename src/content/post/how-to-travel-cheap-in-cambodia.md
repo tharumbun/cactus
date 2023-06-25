@@ -1,7 +1,7 @@
 ---
 title: "How to travel cheap in Cambodia"
 publishDate: "28 May 2023"
-description: Grab is one of the most convenient ways to get you from one
+description: Cambodia has a relatively affordable public transportation system
 tags: ["blog"]
 ---
 
