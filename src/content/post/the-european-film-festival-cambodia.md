@@ -1,8 +1,8 @@
 ---
-title: "Get ready for the European Film Festival Cambodia (EUFF23)"
-date: "2023-02-09"
-categories: 
-  - "blog"
+title: "Get ready for the European Film Festival Cambodia"
+publishDate: "28 May 2023"
+description: This year’s festival will take place at four different locations
+tags: ["blog"]
 ---
 
 The new year is here and with it comes the much-awaited European Film Festival Cambodia (EUFF23). Hosted by the European Union Delegation to Cambodia, this film festival promises to be a delight for film lovers of all ages. With an eclectic collection of films from over 20 countries, this year’s festival will feature 26 feature films, two short film events and a host of unique activities.
