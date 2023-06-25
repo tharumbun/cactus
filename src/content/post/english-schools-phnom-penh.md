@@ -1,8 +1,8 @@
 ---
-title: "Top international English schools in Phnom Penh:  guide for parents"
-date: "2023-02-22"
-categories: 
-  - "blog"
+title: "Top international English schools in Phnom Penh"
+publishDate: "28 May 2023"
+description: As a parent, selecting an international English school is not an easy task
+tags: ["blog"]
 ---
 
 In Phnom Penh, Cambodia, there are more than 50 private English schools, and it can be daunting for parents to choose the best one for their children. However, there are a few well-respected international English schools in the city, including The American School of Phnom Penh, International School of Phnom Penh, Paragon International School, Phnom Penh International School, and Aii Language Center, among others. The British International School Phnom Penh provides education based on the National Curriculum of England with additional elements reflecting local culture.
