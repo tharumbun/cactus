@@ -1,12 +1,11 @@
 ---
 title: "Cambodian cookbooks"
-date: "2023-01-25"
-categories: 
-  - "food"
-  - "blog"
+publishDate: "28 May 2023"
+description: These are some of the popular Cambodian Cooking Books available
+tags: ["blog"]
 ---
 
-These are some of the popular Cambodian Cooking Books available. There could be more, and some of the books may not be available in all countries.
+There could be more, and some of the books may not be available in all countries.
 
 ### NHUM - Recipes from a Cambodian Kitchen
 
