@@ -1,8 +1,8 @@
 ---
 title: "Why is VannDa so popular in Cambodia?"
-date: "2023-05-01"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: There are many reasons why Cambodian rapper VannDa is popular in Cambodia
+tags: ["blog"]
 ---
 
 VannDa, also known as VannDa the Panda, is a Cambodian rapper, singer, and songwriter who has gained popularity in Cambodia's music industry. He was born on October 23, 1997, in Phnom Penh, Cambodia.
