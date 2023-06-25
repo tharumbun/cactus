@@ -1,8 +1,8 @@
 ---
 title: "Best Internet Service Providers in Cambodia"
-date: "2023-02-05"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: This is a mini guide to help you find the right Internet packages from the best
+tags: ["blog"]
 ---
 
 This is a mini guide to help you find the right Internet packages from the best Internet Service Providers (ISPs) in Cambodia. Based in Phnom Penh city, most ISPs have branches and sales offices in major cities like Siem Reap and Sihanoukville. Although there are many Internet Providers operating in Cambodia, only a few major ones own and operate the most advanced optic networks covering 25 Cambodian provinces. These ISPs have a variety of options for you to choose from. Broadband Internet connections with fiber optic cables are the most reliable choice.
