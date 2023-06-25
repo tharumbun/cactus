@@ -1,8 +1,8 @@
 ---
 title: "Cambodia's digital influencers"
-date: "2023-04-25"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: These influencers are all popular for different reasons, but they all have one thing in common
+tags: ["blog"]
 ---
 
 A digital influencer is someone who makes stuff online (like videos or posts) and has a lot of people who like and trust them. Because of that, when they recommend a product or service, their followers might be more likely to buy it.
