@@ -1,8 +1,8 @@
 ---
 title: "How to send money to Cambodia"
-date: "2023-01-11"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: If you're curious about sending and receiving money in Cambodia
+tags: ["blog"]
 ---
 
 If you're curious about sending and receiving money in Cambodia, this blog post will give you some tips and best ways to do it. This is based on my experience using these available money transfer services.
