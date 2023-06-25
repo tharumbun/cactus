@@ -1,8 +1,8 @@
 ---
 title: "How to buy a motorcycle in Cambodia"
-date: "2023-02-10"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: If you're interested in buying a motorcycle in Cambodia
+tags: ["blog"]
 ---
 
 If you're interested in buying a motorcycle in Cambodia, here are the steps you need to follow:
