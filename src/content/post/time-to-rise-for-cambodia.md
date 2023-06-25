@@ -1,8 +1,8 @@
 ---
 title: "Time to rise for Cambodia?"
-date: "2023-02-01"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Cambodia is a Southeast Asian nation with a rich cultural heritage
+tags: ["blog"]
 ---
 
 Cambodia is a Southeast Asian nation with a rich cultural heritage and a tumultuous history. Despite facing numerous challenges, including political instability, poverty, and lack of education, the country has made significant progress in recent years. However, there is still much work to be done to ensure that Cambodia becomes a thriving, prosperous nation.
