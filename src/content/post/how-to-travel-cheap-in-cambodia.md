@@ -1,11 +1,9 @@
 ---
 title: "How to travel cheap in Cambodia"
-date: "2023-01-25"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: These are some tips to travel around Cambodia.
+tags: ["blog"]
 ---
-
-These are some tips to travel around Cambodia.
 
 **Use public transportation** Cambodia has a relatively affordable public transportation system that includes buses, minivans, and tuk-tuks.
 
