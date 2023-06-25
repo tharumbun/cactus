@@ -1,8 +1,8 @@
 ---
 title: "Karmalink movie review"
-date: "2023-02-20"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Karmalink is a story that revolves around karma and reincarnation
+tags: ["blog"]
 ---
 
 In the near-future of Phnom Penh, the wealthy indulge in advanced nanotechnology while the tight-knit community of Tralop Bek faces the threat of forced eviction. Thirteen-year-old Leng Heng, who experiences vivid dreams of his past lives, believes that he and his friends must locate a Buddhist statue to save their homes. They turn to Srey Leak, a neighborhood scavenger, for help and embark on a journey across town and into the past, following clues along the way. As Leng Heng's dreams begin to converge with the present, his sense of identity starts to unravel.
