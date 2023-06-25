@@ -1,8 +1,8 @@
 ---
 title: "Books about Phnom Penh"
-date: "2023-02-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: These books are not only focusing on Phnom Penh, but also Cambodia's history
+tags: ["blog"]
 ---
 
 Phnom Penh, the capital and largest city of Cambodia, has a rich history and culture that has been captured in a variety of literature. These books are not only focusing on Phnom Penh, but also Cambodia's history, culture, and its people experience during war and complex time. They offer a deep understanding and insight of the place and its people.
