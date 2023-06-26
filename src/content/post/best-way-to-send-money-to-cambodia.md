@@ -7,6 +7,17 @@ tags: ["blog"]
 
 If you're curious about sending and receiving money in Cambodia, this blog post will give you some tips and best ways to do it. This is based on my experience using these available money transfer services.
 
+There are several ways to send money to Cambodia. You can use your own bank, a specialist money transfer service, an e-wallet, or visit a physical money remittance store. To send money, you need to register for an account and provide your personal information and payment method. You also need to provide the recipient's name and contact information, and if sending to their Cambodian bank account, their account number, SWIFT or IBAN, and bank branch's address. 
+
+Here are some options for sending money to Cambodia:
+
+1. **Xe**: Xe offers fast and secure online money transfers with competitive exchange rates.
+2. **Paypal**: Paypal is a popular online payment system that allows you to send money to Cambodia.
+3. **ABA Bank**: ABA Bank is a Cambodian bank that offers international money transfer services.
+4. **Sacombank**: Sacombank is a Vietnamese bank that offers international money transfer services to Cambodia.
+
+Fees, exchange rates, and transfer speed vary depending on the method chosen.
+
 ### How do I send money to someone in Cambodia?
 
 There are several services available you can check out. Some are more costly than the others. Trust and secure are what most people are looking for.
@@ -95,3 +106,10 @@ MoneyGram customers can now reach their loved ones in Cambodia in real-time by s
 Skrill: Online payments & Money transfers
 
 Before choosing a money transfer option, make sure to compare the exchange rates, fees, and delivery time of each service to ensure that you get the best deal.
+
+
+Good to read: 
+(1) Best Way To Send Money To Cambodia 2023 - Exiap. https://exiap.com.my/international-money-transfers/send-money-to-cambodia.
+(2) A fast, easy way to send money to Cambodia - Xoom. https://www.xoom.com/cambodia/send-money.
+(3) Send Money To Cambodia | Your Quickest Choices | MoneyTransfers.com. https://moneytransfers.com/send-money/cambodia.
+(4) Send money to Cambodia | WorldRemit. https://www.worldremit.com/en/cambodia.
