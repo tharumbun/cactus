@@ -1,8 +1,8 @@
 ---
 title: "News media in Cambodia"
-date: "2022-11-15"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: To help most people get the latest news and updates from Cambodia
+tags: ["blog"]
 ---
 
 To help most people get the latest news and updates from Cambodia, here's a compiled list of news media outlets.
