@@ -1,7 +1,7 @@
 ---
 title: "Factory Phnom Penh startup hub"
 publishDate: "28 May 2023"
-description: This Factory Phnom Penh houses about 60 startups
+description: The technology startup community in the Cambodian capital city
 tags: ["blog"]
 ---
 
