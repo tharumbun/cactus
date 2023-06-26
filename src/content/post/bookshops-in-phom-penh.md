@@ -1,8 +1,8 @@
 ---
 title: "Phnom Penh's best bookshops"
-date: "2023-01-11"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: These bookstores offer a wide range of books in different languages
+tags: ["blog"]
 ---
 
 These bookstores offer a wide range of books in different languages and genres, and some of them also have café and other services. They are a great place to find books about Cambodia, or just to spend some time reading.
