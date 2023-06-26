@@ -1,8 +1,8 @@
 ---
-title: "Factory Phnom Penh: startup hub"
-date: "2022-09-11"
-categories: 
-  - "blog"
+title: "Factory Phnom Penh startup hub"
+publishDate: "28 May 2023"
+description: This Factory Phnom Penh houses about 60 startups
+tags: ["blog"]
 ---
 
 If you're a digital nomad, a tech startup founder, or freelancer, looking for a workspace where you can also connect with others essential. While the concept of co-working spaces in Cambodia's Phnom Penh has been around for some years, finding a few of the best isn't easy. In this blog post, I'm going to share with you about Factory Phnom Penh, the city's largest co-working space or hub of tech startups in Cambodia.
