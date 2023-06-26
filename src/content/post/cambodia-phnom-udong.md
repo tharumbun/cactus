@@ -1,8 +1,9 @@
 ---
 title: "Phnom Udong"
-publishDate: "28 May 2023"
-description: Oudong Mountain is a former Khmer capital located in Kampong Speu province
-tags: ["blog"]
+date: "2023-04-18"
+categories: 
+  - "food"
+  - "blog"
 ---
 
 Udong Mountain is a popular tourist destination in Cambodia, known for its beautiful scenery, temples, and food.
