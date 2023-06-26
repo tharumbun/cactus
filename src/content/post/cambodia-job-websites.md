@@ -1,8 +1,8 @@
 ---
 title: "Getting a job in Cambodia?"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Getting a job in Cambodia can be a bit more challenging
+tags: ["blog"]
 ---
 
 Getting a job in Cambodia can be a bit more challenging than in some other countries, as the job market is relatively small and competition can be high. However, with some persistence and a little bit of luck, you should be able to find a job that suits your skills and interests.
