@@ -1,11 +1,9 @@
 ---
 title: "Furnishing your home apartment in Phnom Penh"
-date: "2023-01-11"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Furnishing a home in Phnom Penh can be done in a few ways
+tags: ["blog"]
 ---
-
-Furnishing a home in Phnom Penh can be done in a few ways:
 
 1. Visit local markets and furniture stores: Phnom Penh has a variety of markets, such as the Central Market, where you can find a wide selection of furniture at affordable prices. There are also many furniture stores that offer a range of options, from traditional Cambodian-style furniture to modern designs.
 2. Check out second-hand furniture stores: You can also find second-hand furniture stores in Phnom Penh, which can be a great way to save money and find unique pieces.
