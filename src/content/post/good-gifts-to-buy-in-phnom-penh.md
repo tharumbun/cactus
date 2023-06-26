@@ -1,8 +1,8 @@
 ---
 title: "Good Khmer gifts to buy"
-date: "2023-01-11"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: These are some of the popular gifts and souvenirs
+tags: ["blog"]
 ---
 
 These are some of the popular gifts and souvenirs that visitors can purchase in Phnom Penh, and they are a great way to bring a piece of Cambodia back home with you.
