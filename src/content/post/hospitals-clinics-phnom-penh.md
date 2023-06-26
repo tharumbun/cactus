@@ -1,7 +1,7 @@
 ---
 title: "Phnom Penh's hospitals and clinics"
 publishDate: "28 May 2023"
-description: Healthcare in Cambodia is a significant challenge
+description: Healthcare in Cambodia is a significant challenge, particularly
 tags: ["blog"]
 ---
 
