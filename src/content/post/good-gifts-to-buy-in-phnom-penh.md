@@ -1,7 +1,7 @@
 ---
 title: "Good Khmer gifts to buy"
 publishDate: "28 May 2023"
-description: These are some of the popular gifts and souvenirs
+description: These are some of the popular gifts and souvenirs that visitors
 tags: ["blog"]
 ---
 
