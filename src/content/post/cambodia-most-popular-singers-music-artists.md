@@ -1,8 +1,8 @@
 ---
 title: "Cambodia's most popular singers & music artists"
-date: "2023-01-10"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: This is a snapshot of the Cambodian music scene
+tags: ["blog"]
 ---
 
 This is a snapshot of the Cambodian music scene, and there are many other singers and artists who are popular and influential in their own right. Also, popular singers change and evolve over time, this is a list of contemporary singers and singers from the 20th century that are well-known and considered influential by the Cambodian audience.
