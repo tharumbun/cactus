@@ -1,7 +1,7 @@
 ---
 title: "Breakfast in Cambodia"
 publishDate: "28 May 2023"
-description: What do Cambodian people eat for breakfast?
+description: A traditional Cambodian breakfast dish made with rice noodles
 tags: ["blog"]
 ---
 
