@@ -61,6 +61,8 @@ Overall, the combination of lower fees, better exchange rates, faster transfers,
 
 Is PayPal used in Cambodia?
 
+Yes, you can sign up for **PayPal** in Cambodia and link your Cambodian bank card to your PayPal account. This can be done online in a matter of minutes, including verifying your Cambodian phone number and local bank account card linked to your PayPal account ¹². However, PayPal does not work in Cambodia 100% and you still cannot receive PayPal payments directly into a Cambodian bank.
+
 PayPal is available in Cambodia, but with limited functionality. You can use PayPal to send and receive money from other PayPal users in Cambodia, but you cannot use it to withdraw money from your PayPal account to a Cambodian bank account. You can also use PayPal to shop online at merchants that accept PayPal, but you may be subject to additional fees.
 
 If you need to withdraw money from your PayPal account to a Cambodian bank account, you can use a third-party service like Wise or Transferwise. These services allow you to transfer money between different countries at a lower cost than PayPal.
