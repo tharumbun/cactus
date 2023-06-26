@@ -1,9 +1,8 @@
 ---
 title: "Best Phnom Penh pizza"
-date: "2023-01-15"
-categories: 
-  - "food"
-  - "blog"
+publishDate: "28 May 2023"
+description: Cambodian cuisine is heavily influenced by its neighboring countries
+tags: ["blog"]
 ---
 
 Cambodian cuisine is heavily influenced by its neighboring countries, so you can find a lot of pizza places that offer a variety of options.
