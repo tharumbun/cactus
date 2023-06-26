@@ -1,7 +1,7 @@
 ---
 title: "How to travel cheap in Cambodia"
 publishDate: "28 May 2023"
-description: These are some tips to travel around Cambodia
+description: These are some tips to travel around Cambodia you need
 tags: ["blog"]
 ---
 
