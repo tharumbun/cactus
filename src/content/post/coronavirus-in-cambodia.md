@@ -1,8 +1,8 @@
 ---
 title: "Coronavirus in Cambodia"
-date: "2023-01-11"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Cambodia has reported cases of coronavirus (COVID-19)
+tags: ["blog"]
 ---
 
 Cambodia has reported cases of coronavirus (COVID-19) since early 2020. The government has implemented measures to control the spread of the virus, including travel restrictions, quarantine requirements, and mask mandates.
