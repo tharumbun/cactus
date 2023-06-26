@@ -1,8 +1,8 @@
 ---
 title: "Phnom Penh's hospitals and clinics"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Healthcare in Cambodia is a significant challenge
+tags: ["blog"]
 ---
 
 Healthcare in Cambodia is a significant challenge, particularly in rural areas. The country has a population of over 16 million people, and the healthcare system is underfunded and understaffed.
