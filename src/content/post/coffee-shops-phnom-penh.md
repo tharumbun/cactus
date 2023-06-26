@@ -1,7 +1,7 @@
 ---
 title: "Best cafes in Phnom Penh"
 publishDate: "28 May 2023"
-description: Here are 5 popular coffee shops in Phnom Penh
+description: Here are 5 popular coffee shops in Phnom Penh you should know
 tags: ["blog"]
 ---
 
