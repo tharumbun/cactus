@@ -1,9 +1,8 @@
 ---
 title: "Best buffet restaurants in Phnom Penh"
-date: "2023-01-10"
-categories: 
-  - "food"
-  - "blog"
+publishDate: "28 May 2023"
+description: Phnom Penh is known for its delicious and diverse cuisine
+tags: ["blog"]
 ---
 
 Phnom Penh is known for its delicious and diverse cuisine, and there are many great places to eat buffet in the city.
