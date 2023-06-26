@@ -1,12 +1,9 @@
 ---
 title: "Best cafes in Phnom Penh"
-date: "2023-01-11"
-categories: 
-  - "food"
-  - "blog"
+publishDate: "28 May 2023"
+description: Here are 5 popular coffee shops in Phnom Penh
+tags: ["blog"]
 ---
-
-Here are 5 popular coffee shops in Phnom Penh:
 
 1. Brown Coffee - This coffee shop chain has several locations in Phnom Penh, known for its specialty coffee and good food. They have a cozy atmosphere and a friendly staff.
 2. Riel Coffee - This coffee shop is located in the trendy BKK1 neighborhood, and it is known for its specialty coffee and great brunch menu. They have a terrace seating option and a relaxing atmosphere.
