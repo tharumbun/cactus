@@ -1,53 +1,35 @@
 ---
 title: "Getting around Cambodia by train"
-date: "2022-12-10"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: The Cambodian railway system is not well-developed and infrastructure
+tags: ["blog"]
 ---
 
-Cambodia has a limited railway system, which is primarily used for transporting goods. The railway system in Cambodia is operated by the state-owned company Royal Railways of Cambodia (RRC).
+Cambodia has a limited railway system primarily used for transporting goods. The state-owned company Royal Railways of Cambodia (RRC) operates the railway system. However, the infrastructure is in poor condition, making it unreliable and inefficient for both passengers and cargo. Despite these challenges, the government has announced plans to improve and expand the railway system in the future to enhance connectivity and boost economic growth.
 
-The Cambodian railway system is not well-developed and infrastructure is not in good condition, as a result, it's not considered a reliable or efficient mode of transportation for passengers or cargo. However, the government has announced plans to improve and expand the railway system in the future to increase connectivity and boost economic growth.
+One of the most active railway routes in Cambodia is the Phnom Penh-Sihanoukville route, which connects the capital city to the main port. This route is mainly used for freight transportation and takes approximately 6 hours.
 
-**Phnom Penh-Sihanoukville**
+Another route is the Phnom Penh-Poipet route, which connects Phnom Penh to the border town of Poipet. It serves as an alternative route to the busy National Road 5 and is also primarily used for freight transportation.
 
-The most active railway route in Cambodia is the Phnom Penh-Sihanoukville route which was built to connect the capital city to the main port of the country. The journey takes around 6 hours and it is used mainly for freight transportation.
+The Battambang-Poipet route connects the city of Battambang to the border town of Poipet and is predominantly used for freight transportation.
 
-**Phnom Penh-Poipet**
+As I prepare to travel to Battambang tomorrow, I have decided to take a different route this time and try the train instead of booking a bus or van ticket on BookMeBus. It's noteworthy that the train service in Cambodia exists, and there is a Cambodia Railway Station.
 
-This route connects Phnom Penh to the border town of Poipet and provides an alternative route to the busy National Road 5. It is also used mainly for freight transportation.
+To book train tickets, you don't need to physically visit the Cambodia Railway Station. The Royal Railways website provides an online platform (available in English and Khmer) where you can check train routes, schedules, and prices. A one-way ticket from Phnom Penh to Battambang province costs around $10, and there are currently two schedules per day. I opted for the early morning departure. While the price is slightly higher compared to a bus ticket, the journey duration is a bit longer.
 
-**Battambang-Poipet**
+For secure payment, it is recommended to use PayPal. Payment methods from ABA or Acleda banks are not available, but you can use Wing Bank, which is owned by the same company group that operates the Cambodian train service.
 
-This route connects the city of Battambang to the border town of Poipet and is mainly used for freight transportation.
+If you're interested, you can subscribe to Cambopedia on YouTube for videos of the train journey.
 
-As tomorrow, I will head off to Battambang, I decide to try a new route. Instead of booking a bus or van ticket on BookMeBus, I choose to take a train this time. This is 2022. There is actually a train service in Cambodia. Have you ever heard of Cambodia Railway Station?
+In recent years, Cambodia has made significant renovations and upgrades to its railway system. The reopening of the Phnom Penh Royal Railway Station in 2010 marked a turning point. Traveling across Cambodia by train has become more accessible and convenient. This page provides useful information about train schedules, stations, and routes.
 
-### Royal Railway Cambodia train ticket e-booking
+From Phnom Penh, you can take a train to Sihanoukville, Takeo, Kampot, and soon to Poipet. The cost of a one-way ticket for an air-conditioned train trip is under $10.
 
-You don't actually have to go to Cambodia Railyway Station to buy your train ticket. On [the Royal Railways website](http://royal-railway.com/?page=ebooking&lg=en) (available in both English and Khmer), you can check the train routes, schedules, and prices. It's nearly $10 for a one-way ticket from Phnom Penh to Battambang province. Currently there are two schedules each day. I chose the early morning departure. While the price is not much cheaper than taking a bus, the duration is a bit longer to arrive.
+To book a train ticket, you can call (+855) 78 888 582 or (+855) 78 888 583, or book online through the Royal Railways website.
 
-If you've got a Paypal account, that's the most secure way to pay for your train ticket. ABA or Acleda bank payment methods are not available. Only Wing Bank, which is owned by the same group company that runs the Cambodian train service.
+Here is a list of railway stations in Cambodia:
 
-You can subscribe to [Cambopedia on YouTube](https://www.youtube.com/@cambopedia) for vidoes of the train journey.
+Western line: Phnom Penh, Pursat, Moung Ruessei, Battambang, Sisophon, Poipet
+Southern line: Phnom Penh, Takéo, Damnak Chang Aeur (Kep), Kampot, Veal Renh, Sihanoukville
 
-Getting Across Cambodia by Trains
-
-In the last few years, Cambodia has renovated and upgraded its railways across the country. In 2010, the Phnom Penh Royal railway station was reopened. It's getting better and easier to travel across Cambodia by trains. In this page, you'll find all the useful information about train schedules, stations, and routes.
-
-Train schedules for passengers
-
-From Phnom Penh, you can take a train to Sihanoukville, Takeo, and Kampot. Poipet is coming up on the list. A one-way ticket for an air-conditioned train trip is for under $10.
-
-**To book a train ticket, you can:**
-
-call to book: (+855) 78 888 582 or (+855) 78 888 583  
-or book online through the Royal Railways website.
-
-**A List of Railway Stations in Cambodia**
-
-Western line: Phnom Penh, Pursat, Moung Ruessei, Battambang, Sisophon, Poipet Southern line: Phnom Penh, Takéo, Damnak Chang Aeur (Kep), Kampot, Veal Renh, Sihanoukville
-
-**Good to Know**
-
-Cambodia has 612 km (380 mi) of 1,000 mm (3 ft 3 3⁄8 in) metre gauge rail network.
+It's good to know that Cambodia has a 612 km (380 mi) metre gauge rail network, with rails measuring 1,000 mm (3 ft 3 3⁄8 in) in width.
