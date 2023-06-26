@@ -1,11 +1,9 @@
 ---
 title: "Best places to visit when in Cambodia"
-date: "2023-01-15"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: 5 best places or destinations to visit when in Cambodia
+tags: ["blog"]
 ---
-
-5 best places or destinations to visit when in Cambodia
 
 Cambodia is a country rich in culture and history, and it offers a wide variety of interesting places to visit. Cambodia offers many other destinations that are also worth visiting like Kep, Kampot, Koh Ker, etc. So, these five options are just a small sample of what this country has to offer to travelers.
 
