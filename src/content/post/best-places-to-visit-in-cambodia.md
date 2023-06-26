@@ -191,4 +191,4 @@ Getting to Picnic Resort from Phnom Penh
 
 You can drive your own car or get on a bus from Phnom Penh to Preah Shanouk province and get off at 135 kilometer marker in Kompong Seila District.
 
-The bus trip duration is about 2 h 43 min. Location: National Road 4, PK135, Boeung Trach Village, Chamcaluong, Kampong Seila District (about 90 km north of Sihanoukville), Cambodia Picnic Resort & Organic Farm website: https://www.picnicresort.com/
+The bus trip duration is about 2 h 43 min. Location: National Road 4, PK135, Boeung Trach Village, Chamcaluong, Kampong Seila District (about 90 km north of Sihanoukville), Cambodia
