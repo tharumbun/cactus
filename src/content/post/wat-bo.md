@@ -1,7 +1,7 @@
 ---
 title: "Wat Bo village"
 publishDate: "28 May 2023"
-description: Wat Bo village is home to the Wat Bo temple
+description: Wat Bo village is known for its silk-weaving industry
 tags: ["blog"]
 ---
 
