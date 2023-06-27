@@ -1,11 +1,11 @@
 ---
 title: "Top universities in Cambodia"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Over the past decade, Cambodia has focused on improving its higher education.
+tags: ["blog"]
 ---
 
-Over the past decade, Cambodia has focused on improving its higher education. It is one of the top priorities of the Cambodian government to revitalize the education system and human resources to keep up with countries in Southeast Asia and the world. Most of the best universities are situated in the heart of Phnom Penh, Cambodia's largest capital city. How many universities are there in the Kingdom of Cambodia? There are about 100 universities (both public and private) in Cambodia.
+It is one of the top priorities of the Cambodian government to revitalize the education system and human resources to keep up with countries in Southeast Asia and the world. Most of the best universities are situated in the heart of Phnom Penh, Cambodia's largest capital city. How many universities are there in the Kingdom of Cambodia? There are about 100 universities (both public and private) in Cambodia.
 
 It's difficult to say which universities are the "best" in Cambodia as it depends on what factors you consider important. However, some of the most well-respected universities in Cambodia include:
 
