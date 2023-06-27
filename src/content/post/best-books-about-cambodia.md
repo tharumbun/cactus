@@ -2,7 +2,7 @@
 title: "Books about Cambodia"
 publishDate: "28 May 2023"
 description: From the grandeur of Angkor Wat to the tragedy of the Khmer Rouge
-tags: ["blog"]
+tags: ["books"]
 ---
 Welcome to the wonderful world of Cambodia! If you're planning a visit to this fascinating country, or just have a deep interest in its history and culture, you've come to the right place. From the grandeur of Angkor Wat to the tragedy of the Khmer Rouge, Cambodia is a nation with a rich and complex history that is ripe for exploration. Whether you're a history buff, a traveler, or simply someone who wants to learn more about this incredible country, these recommended books about Cambodia and its people are the perfect way to deepen your understanding.
 
