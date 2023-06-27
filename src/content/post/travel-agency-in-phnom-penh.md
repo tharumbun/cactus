@@ -1,11 +1,9 @@
 ---
 title: "5 travel agencies in Phnom Penh"
-date: "2023-01-15"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: You might want to use a travel agency when planning your trip
+tags: ["blog"]
 ---
-
-You might want to use a travel agency when planning your trip:
 
 **Convenience**
 
