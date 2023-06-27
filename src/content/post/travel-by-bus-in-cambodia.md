@@ -1,9 +1,10 @@
 ---
 title: "Travel by bus in Cambodia"
-date: "2023-02-08"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: In the 1990s, roads that link major cities and provinces in Cambodia
+tags: ["blog"]
 ---
+
 
 In the 1990s, roads that link major cities and provinces in Cambodia were really bad. During the rainy season, the flood also cut off those main roads. Today, it's easy and cheap to travel across Cambodia by bus. So, if you're looking into how to get around Cambodia by bus, this is the page for you.
 
