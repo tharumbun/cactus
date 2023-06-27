@@ -1,8 +1,8 @@
 ---
 title: "Tour around Siem Reap on a budget"
-date: "2023-01-12"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: There are several ways to tour around Siem Reap on a budget
+tags: ["blog"]
 ---
 
 Siem Reap has an abundance of places for anyone to visit. Whether you are visiting to seek for quick adventure trip or planning to stay longer, this Cambodian province has everything that anyone would desire. There are more than 200 temples around Siem Reap, mountains that you can climb, floating villages that you can visit and even a forest filled with rescued elephants.
