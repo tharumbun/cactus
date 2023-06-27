@@ -1,8 +1,8 @@
 ---
-title: "Websites & blogs about all things Cambodia"
-date: "2023-01-11"
-categories: 
-  - "blog"
+title: "Blogs about all things Cambodia"
+publishDate: "28 May 2023"
+description:  These blogs provide a wide range of information
+tags: ["blog"]
 ---
 
 5 popular websites about Cambodia:
