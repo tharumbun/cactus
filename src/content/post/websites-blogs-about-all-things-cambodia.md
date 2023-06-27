@@ -1,7 +1,7 @@
 ---
 title: "Blogs about all things Cambodia"
 publishDate: "28 May 2023"
-description:  These blogs provide a wide range of information
+description: These blogs provide a wide range of information and personal experiences
 tags: ["blog"]
 ---
 
