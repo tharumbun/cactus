@@ -1,8 +1,8 @@
 ---
 title: "Wat Bo village"
-date: "2023-01-12"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Wat Bo village is home to the Wat Bo temple
+tags: ["blog"]
 ---
 
 Wat Bo village is a traditional Cambodian village located in the Siem Reap province, known for its well-preserved colonial architecture and rich cultural heritage. Here are a few interesting things about Wat Bo village:
