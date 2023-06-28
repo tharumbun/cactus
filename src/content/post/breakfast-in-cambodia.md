@@ -2,7 +2,7 @@
 title: "Breakfast in Cambodia"
 publishDate: "28 May 2023"
 description: A traditional Cambodian breakfast dish made with rice noodles
-tags: ["blog"]
+tags: ["food"]
 ---
 
 What do Cambodian people eat for breakfast? Some typical breakfast options in Cambodia include congee, a rice porridge-like broth, as well as Chinese donuts and noodles.
