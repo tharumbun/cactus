@@ -1,8 +1,8 @@
 ---
-title: "Why you should live in Phnom Penh"
-date: "2022-11-17"
-categories: 
-  - "blog"
+title: "Phnom Penh has a long and rich history"
+publishDate: "28 May 2023"
+description: Phnom Penh is known for its historical and cultural sites
+tags: ["blog"]
 ---
 
 Phnom Penh is the capital and largest city of Cambodia. It is located in the south-central part of the country, at the confluence of the Mekong, Bassac, and Tonle Sap rivers. The city has a population of over 2 million people and is a major cultural, economic, and political center in Cambodia.
