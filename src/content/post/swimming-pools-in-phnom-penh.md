@@ -1,8 +1,8 @@
 ---
 title: "Swimming pools in Phnom Penh"
-date: "2023-01-15"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Phnom Penh is a city with a lot of luxurious hotels
+tags: ["blog"]
 ---
 
 Phnom Penh is a city with a lot of luxurious hotels and resorts, and those usually have swimming pools, so you can find a lot of options.
