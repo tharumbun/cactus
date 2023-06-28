@@ -5,7 +5,6 @@ description: It's worth noting that these names have different meanings
 tags: ["blog"]
 ---
 
-
 It's worth noting that these names have different meanings depending on the context, and the spelling might have variations. It's also worth mentioning that Khmer names are often composed of two or more words that convey a specific meaning and are chosen with care by parents.
 
 It's important to remember that in Khmer culture, names are considered to have a powerful influence on a person's life, and parents often choose names based on their meaning, tradition, or the astrological sign of the child.
