@@ -1,8 +1,8 @@
 ---
 title: "Starting a business in Cambodia"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Several mobile operators in Cambodia have expressed interest in
+tags: ["blog"]
 ---
 
 Cambodia is a new, emerging market in Southeast Asia. Which industries or sectors you want to invest or launch your business? There are many options. Are you ready to take part in a growing economy in the region?
