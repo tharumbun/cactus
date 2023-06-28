@@ -1,8 +1,8 @@
 ---
 title: "How to learn Khmer language"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Do you want to learn Khmer language?
+tags: ["blog"]
 ---
 
 Did you know that Khmer is the official language of Cambodian people? Sanskrit and Pali helped create Khmer Khemara because Khmer borrowed a lot of words from the language. Also for the record, Khmer has most alphabets in the world; it is an old language that dates back to 2,000 years ago.
