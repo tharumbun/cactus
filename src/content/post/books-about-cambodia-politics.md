@@ -19,7 +19,6 @@ Here are some books about Cambodian politics that you may find informative and i
 
 * **Sihanouk: Prince of Light, Prince of Darkness** by Milton Osborne. This book is a biography of Norodom Sihanouk, the former king of Cambodia. It covers his life from his early years to his role in the Cambodian peace process.
 
-
 "Hun Sen's Cambodia" by Sebastian Strangio: This book provides a comprehensive overview of Cambodian Prime Minister Hun Sen's rule and the political landscape of Cambodia. It delves into topics such as the country's transition from communism to capitalism, corruption, and the challenges faced by civil society.
 
 "Pol Pot: Anatomy of a Nightmare" by Philip Short: This biography explores the life of Pol Pot, the leader of the Khmer Rouge regime that ruled Cambodia from 1975 to 1979. It provides a detailed account of the regime's atrocities, including the infamous Cambodian genocide.
@@ -29,3 +28,29 @@ Here are some books about Cambodian politics that you may find informative and i
 "Cambodia's Curse: The Modern History of a Troubled Land" by Joel Brinkley: This book offers an analysis of Cambodia's history and politics, exploring topics such as corruption, human rights abuses, and the challenges faced by the country in its transition to democracy.
 
 "A Short History of Cambodia: From Empire to Survival" by John Tully: This book provides a concise overview of Cambodia's history, including its ancient civilizations, colonial period, independence, and the turbulent years under the Khmer Rouge regime. It offers insights into the political developments that have shaped the country.
+
+
+### Books about Cambodian Politics
+
+**A history of Cambodia-Thailand Diplomatic Relations 1950-2020**
+
+[Buy it on Amazon](https://www.amazon.com/gp/product/3962031294/?tag=tbun27_cambodia-20)
+
+Cambodian scholar Sok Udom Deth provides an analysis of Cambodia-Thailand diplomatic relations over the past seven decades, specifically from 1950 to 2020.
+
+**Seeking Justice in Cambodia**
+
+[Buy it on Amazon](https://amzn.to/2sBhyqN)
+
+A communications specialist, Sue Coffey spent most of her time talking with prominent Cambodian human rights who are at the forefront. A rare and latest book of its kind. [Check out the book author's website](https://seekingjusticeincambodia.com/).
+
+**Cambodia: From Pol Pot to Hun Sen and Beyond Paperback – October 20, 2020**
+
+[Buy it on Amazon](https://www.amazon.com/gp/product/0300211732/?tag=tbun27_cambodia-20)
+
+The book author is a foreign correspondent covering Cambodia for an English newspaper in Phnom Penh for several years.
+
+**Cambodia's Second Kingdom: Nation, Imagination, and Democracy Paperback – May 15, 2016**
+
+[Buy it on Amazon](https://amzn.to/2vo0MgU)
+
