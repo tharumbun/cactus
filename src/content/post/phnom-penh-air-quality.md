@@ -1,8 +1,8 @@
 ---
 title: "Phnom Penh air quality"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Factors that can affect air quality in Phnom Penh include emissions
+tags: ["blog"]
 ---
 
 The air quality in Phnom Penh can vary depending on the time of year and the specific location within the city. In general, the air quality in Phnom Penh is considered to be poor. The city experiences high levels of air pollution, particularly during the dry season, when dust and sand from nearby construction projects and agriculture can contribute to poor air quality. In addition, there is a lot of vehicle traffic in Phnom Penh, which can also contribute to air pollution.
