@@ -112,7 +112,11 @@ Before choosing a money transfer option, make sure to compare the exchange rates
 
 Good to read: 
 [Explainer: How to Receive and Send Money in Cambodia](https://kiripost.com/stories/how-to-receive-send-money-in-from-cambodia)
-(1) Best Way To Send Money To Cambodia 2023 - Exiap. https://exiap.com.my/international-money-transfers/send-money-to-cambodia.
-(2) A fast, easy way to send money to Cambodia - Xoom. https://www.xoom.com/cambodia/send-money.
-(3) Send Money To Cambodia | Your Quickest Choices | MoneyTransfers.com. https://moneytransfers.com/send-money/cambodia.
-(4) Send money to Cambodia | WorldRemit. https://www.worldremit.com/en/cambodia.
+
+Best Way To Send Money To Cambodia 2023 - Exiap. https://exiap.com.my/international-money-transfers/send-money-to-cambodia.
+
+A fast, easy way to send money to Cambodia - Xoom. https://www.xoom.com/cambodia/send-money.
+
+Send Money To Cambodia | Your Quickest Choices | MoneyTransfers.com. https://moneytransfers.com/send-money/cambodia.
+
+Send money to Cambodia | WorldRemit. https://www.worldremit.com/en/cambodia.
