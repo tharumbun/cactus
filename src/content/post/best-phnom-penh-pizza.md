@@ -1,8 +1,8 @@
 ---
 title: "Best Phnom Penh pizza"
 publishDate: "28 May 2023"
-description: Cambodian cuisine is heavily influenced by its neighboring countries
-tags: ["blog"]
+description: The Pizza Company is a well-known pizza chain in Cambodia
+tags: ["food"]
 ---
 
 Cambodian cuisine is heavily influenced by its neighboring countries, so you can find a lot of pizza places that offer a variety of options.
