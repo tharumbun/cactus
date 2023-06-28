@@ -285,30 +285,6 @@ Incredibly, Helen Churchill Candee is a survivor of the Titanic. In 1922, she tr
 - [In the Shadow of the Banyan: A Novel](https://amzn.to/2L7FWaw) by [Vaddey Ratner](https://vaddeyratner.com/) (Author)
 - [Khmer Legends](https://amzn.to/2DmtsfC) by Demaz Tep Baker
 
-### Books about Cambodian Politics
-
-**A history of Cambodia-Thailand Diplomatic Relations 1950-2020**
-
-[Buy it on Amazon](https://www.amazon.com/gp/product/3962031294/?tag=tbun27_cambodia-20)
-
-Cambodian scholar Sok Udom Deth provides an analysis of Cambodia-Thailand diplomatic relations over the past seven decades, specifically from 1950 to 2020.
-
-**Seeking Justice in Cambodia**
-
-[Buy it on Amazon](https://amzn.to/2sBhyqN)
-
-A communications specialist, Sue Coffey spent most of her time talking with prominent Cambodian human rights who are at the forefront. A rare and latest book of its kind. [Check out the book author's website](https://seekingjusticeincambodia.com/).
-
-**Cambodia: From Pol Pot to Hun Sen and Beyond Paperback – October 20, 2020**
-
-[Buy it on Amazon](https://www.amazon.com/gp/product/0300211732/?tag=tbun27_cambodia-20)
-
-The book author is a foreign correspondent covering Cambodia for an English newspaper in Phnom Penh for several years.
-
-**Cambodia's Second Kingdom: Nation, Imagination, and Democracy Paperback – May 15, 2016**
-
-[Buy it on Amazon](https://amzn.to/2vo0MgU)
-
 ### Travel Guide Books
 
 **Troubling the Water: A Dying Lake and a Vanishing World in Cambodia** book by Abby Seiff, a foreign journalist who has covered Cambodia, Thailand, and Nepal. She announced her book relase on Twitter: "So! After years of work, my book is due out in two months which is pretty surreal and extremely terrifying. If you're at all interested, I hope you'll consider preordering it - which is apparently very helpful." [Buy it on Amazon](https://www.amazon.com/gp/product/1640124764/?tag=tbun27_cambodia-20)
