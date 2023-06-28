@@ -1,10 +1,9 @@
 ---
 title: "Shopping in Phnom Penh"
-date: "2022-06-28"
-categories: 
-  - "blog"
+publishDate: "28 June 2023"
+description: How to get the best out of your shopping experience
+tags: ["blog"]
 ---
-
 Love shopping? How to get the best out of your shopping experience when in Phnom Penh? It's this time of the year again that you want to buy some of electronics and gadgets yourself, your family members and friends. This mini guide will help you discover great gadgets as well as good shops you can buy them in Phnom Penh, Cambodia.
 
 Remember that the price is negotiable, so don't be afraid to negotiate for a better deal. Keep in mind that a little bit of haggling can go a long way in getting a good deal and make a great purchase.
