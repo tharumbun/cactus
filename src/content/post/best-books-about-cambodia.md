@@ -317,14 +317,6 @@ The book author is a foreign correspondent covering Cambodia for an English news
 - [Lonely Planet Cambodia](https://amzn.to/2OQAWu6) (Travel Guide) Paperback – August 21, 2018
 - [Moon Angkor Wat: With Siem Reap & Phnom Penh](https://amzn.to/2Mrmasc) (Travel Guide) Paperback – October 2, 2018
 
-### Books about Learning Khmer Language
-
-If you want to learn basic Khmer language (beginners), these are the selected books you you should check out.
-
-- [Khmer Picture Book: Khmer Pictorial Dictionary (Color and Learn)](https://amzn.to/2AmkvCA)
-- [Cambodian for Beginners](https://amzn.to/2Os91Az)
-- [Colloquial Cambodian (Routledge Colloquials (Audio)) 1st Edition](https://amzn.to/2Alnr2j)
-
 ### Books about Khmer Food Cooking
 
 If you love cooking and want to start your first Khmer dish, these recommended books are the best to start.
