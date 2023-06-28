@@ -25,6 +25,17 @@ is a collection of authentic recipes from the Kingdom of Wonder, Cambodia. It fe
 
 Khmer cuisine is the traditional cuisine of the Cambodian people. It is similar to Thai and Vietnamese cuisine, with a heavy emphasis on rice, seafood, and a variety of herbs and spices. Some popular dishes include Amok, a traditional fish curry, and Lok lak, a dish of marinated beef or pork served with vegetables and rice. Visitors to Cambodia should also try the street food, which offers a wide variety of delicious and inexpensive options. When eating out in Cambodia, it's important to be aware that many restaurants use a lot of MSG in their cooking, so if you're sensitive to it, it's best to ask that it not be used.
 
+### Books about Khmer Food Cooking
+
+If you love cooking and want to start your first Khmer dish, these recommended books are the best to start.
+
+- [A Taste of Cambodian Cuisine](https://amzn.to/2AMYJbm) by Demaz Baker
+- [The Elephant Walk Cookbook: The Exciting World of Cambodian Cuisine from the Nationally Acclaimed Restaurant](https://amzn.to/2F1aZqM)
+- [Royal Khmer Cuisine](https://amzn.to/2AJ6gpu)
+- [Chicken in the Mango Tree: Food and Life in a Thai-Khmer Village](https://amzn.to/2OneGGK)
+- [The Recipes of Life: Cambodian Cookbook (Chapter 1) Kindle Edition](https://amzn.to/2Djz2zn)
+
+
 Also good read:
 
 - [How to cook homemade Khmer food](https://dinewiththelocals.com/how-to-cook-homemade-khmer-food/)
