@@ -9,7 +9,7 @@ Did you know that Khmer is the official language of Cambodian people? Sanskrit a
 
 Do you want to learn Khmer language? Khmer is not an easy language to learn for most people. But, one of the best travel and living experiences in Cambodia is the ability to talk to Cambodian people in Khmer. With determination, foreigners and expats can learn and speak Khmer fluently.
 
-### Here are 5 books to help foreigners learn Khmer language:
+### Here are 5 [books to help foreigners learn Khmer language](https://cambopedia.com/books-to-learn-khmer/):
 
 - [Khmer Picture Book: Khmer Pictorial Dictionary (Color and Learn)](https://www.amazon.com/gp/product/1544907699/?tag=tbun27_cambodia-20)
 - [Cambodian for Beginners](https://www.amazon.com/gp/product/1887521356/?tag=tbun27_cambodia-20)
