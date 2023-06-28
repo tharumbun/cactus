@@ -1,8 +1,8 @@
 ---
 title: "How to cook Khmer Amok"
 publishDate: "28 May 2023"
-description: Are you looking for simple recipe to cook your first Amok?
-tags: ["blog"]
+description: Are you looking for simple recipe to cook
+tags: ["food"]
 ---
 
 This is one variation of the recipe and you can adjust the ingredients and the cooking methods to your preference.
