@@ -1,8 +1,8 @@
 ---
 title: "5G technology in Cambodia"
 publishDate: "28 May 2023"
-description: The authenic lort cha is the most popular street food
-tags: ["blog"]
+description: The authenic lort cha is the most popular street
+tags: ["food"]
 ---
 
 This stir-fried noodle dish is easy to find when you're Phnom Penh, Cambodia. It's a common street food for breakfast, lunch, afternoon snack, and dinner.
