@@ -1,8 +1,8 @@
 ---
 title: "Living in Cambodia"
-date: "2023-01-09"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: Cambodia is generally considered safe for tourist
+tags: ["blog"]
 ---
 
 ### What you need to know before coming to Cambodia
