@@ -1,8 +1,8 @@
 ---
 title: "Things to do when in Phnom Penh"
-date: "2022-06-28"
-categories: 
-  - "blog"
+publishDate: "28 May 2023"
+description: If you're coming to Phnom Penh for the first time and wondering
+tags: ["blog"]
 ---
 
 If you're coming to Phnom Penh for the first time and wondering about how to spend your time wisely, this post is all about things you can do in this capital city of Cambodia. But remember that I'm a local resident. So it's pretty much from my perspectives and experience as a Phnom Penher. Founded in 1372, Cambodia's largest city is known for its historical architecture and attractions. Also known as the Pearl of Asia or Paris of the East, I think it really matters when it comes to how many days you've got when visiting Phnom Penh. But, you can decide things you want to do based on your preference. I'll try to answer some of the most frequently asked questions like: free things to do or unusual to do in Phnom Penh. Before we get started, let's see if these posts I wrote may be of help for you: [Phnom Penh nightlife](https://cambopedia.com/phnom-penh-nightlife/)
