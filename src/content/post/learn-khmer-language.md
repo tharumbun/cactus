@@ -1,7 +1,7 @@
 ---
 title: "How to learn Khmer language"
 publishDate: "28 May 2023"
-description: Do you want to learn Khmer language?
+description: Khmer is not an easy language to learn for most people
 tags: ["blog"]
 ---
 
