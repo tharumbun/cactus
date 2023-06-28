@@ -1,7 +1,7 @@
 ---
 title: "Best buffet restaurants in Phnom Penh"
 publishDate: "28 May 2023"
-description: Phnom Penh is known for its delicious and
+description: Here are some of the best buffet restaurants in Phnom Penh
 tags: ["books"]
 ---
 
