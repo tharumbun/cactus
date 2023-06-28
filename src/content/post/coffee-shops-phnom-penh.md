@@ -1,8 +1,8 @@
 ---
 title: "Best cafes in Phnom Penh"
 publishDate: "28 May 2023"
-description: Here are 5 popular coffee shops in Phnom Penh you should know
-tags: ["blog"]
+description: Here are 5 popular coffee shops in Phnom Penh
+tags: ["food"]
 ---
 
 1. Brown Coffee - This coffee shop chain has several locations in Phnom Penh, known for its specialty coffee and good food. They have a cozy atmosphere and a friendly staff.
@@ -42,6 +42,14 @@ The wifi is ultra fast. The second floor is place to hide yourself from the bust
 #### Brown Coffee and Bakery
 
 The king of the local brand coffee chain, Brown has nearly 20 shops, most of them in Phnom Penh, with new expansion in Siem Reap. I like Brown’s cold brew coffee, which is only available at its roastery shop. The latest Brown Coffee roastery shop is located in Tuol Kork district. It’s one of Brown’s grand store with a small playground in its backyard.
+
+* **Java Creative Cafe** is a popular spot for locals and tourists alike. It has a great atmosphere, with a mix of indoor and outdoor seating. The coffee is excellent, and they also have a wide variety of food options.
+
+* **Feel Good Cafe** is another great option for coffee and food. They are known for their delicious coffee, as well as their healthy food options.
+* **Enso Cafe** is a bit more upscale than the other cafes on this list. They have a great selection of coffee and tea, as well as a variety of pastries and sandwiches.
+* **Noir Coffee** is a local chain that is known for their strong coffee. They also have a variety of food options, including breakfast, lunch, and dinner.
+* **Living Room Cafe** is a great place to relax and people-watch. They have a large outdoor seating area, and they also have a pool table and foosball table.
+
 
 Toul Kork is Phnom Penh’s newest shopping district
 
