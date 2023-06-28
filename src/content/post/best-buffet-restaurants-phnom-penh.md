@@ -1,13 +1,22 @@
 ---
 title: "Best buffet restaurants in Phnom Penh"
 publishDate: "28 May 2023"
-description: Phnom Penh is known for its delicious and diverse cuisine
-tags: ["blog"]
+description: Phnom Penh is known for its delicious and
+tags: ["books"]
 ---
 
 Phnom Penh is known for its delicious and diverse cuisine, and there are many great places to eat buffet in the city.
 
-### Some of the best buffet restaurants in Phnom Penh:
+Here are some of the best buffet restaurants in Phnom Penh:
+* **La Coupole** is a French restaurant with a wide variety of international cuisine. It is located in the Sofitel Phnom Penh Phokeethra hotel.
+* **2Pangea** is a rooftop restaurant with stunning views of the city. It offers a buffet of Asian and Western cuisine.
+* **Gorkhas Palace** is a Nepalese restaurant with a buffet of traditional Nepalese dishes. It is located in the heart of Phnom Penh.
+* **Coriander** is an Indian restaurant with a buffet of Indian and South Asian cuisine. It is located in the Russian Market area.
+* **Terrazza** is an Italian restaurant with a buffet of Italian and Mediterranean cuisine. It is located in the Aeon Mall.
+
+These are just a few of the many great buffet restaurants in Phnom Penh. With so many options to choose from, you're sure to find one that you'll enjoy.
+
+### Some more buffet restaurants in Phnom Penh:
 
 [**Sovanna Spa & Restaurant**](https://www.facebook.com/sovannarestaurant/)
 
