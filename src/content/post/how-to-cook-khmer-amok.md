@@ -1,7 +1,7 @@
 ---
 title: "How to cook Khmer Amok"
 publishDate: "28 May 2023"
-description: Are you looking for simple recipe to cook
+description: The dish is considered popular in Cambodia because
 tags: ["food"]
 ---
 
