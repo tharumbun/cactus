@@ -1,7 +1,7 @@
 ---
 title: "Cambodian fruits you should taste"
 publishDate: "28 May 2023"
-description: Durian Durian is a spiky fruit that is known
+description: Durian Durian is a spiky fruit that is known for its
 tags: ["food"]
 ---
 
