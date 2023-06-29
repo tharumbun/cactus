@@ -1,5 +1,5 @@
 ---
-title: "books about Cambodian politics"
+title: "Books about Cambodian politics"
 publishDate: "28 June 2023"
 description: Some books about Cambodian politics that you may find informative
 tags: ["books"]
