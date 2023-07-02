@@ -1,7 +1,7 @@
 ---
 title: "Top international English schools in Phnom Penh"
 publishDate: "28 May 2023"
-description: As a parent, selecting an international English school is not an easy task
+description: As a parent, selecting an international English school is
 tags: ["blog"]
 ---
 
@@ -151,7 +151,7 @@ Phone: +855 12 550 522
 
 [Northbridge International School of Cambodia (NISC)](http://www.nisc.edu.kh/) Kindergarten & Grade 1: $12495
 
-[Ocarina School](http://ecole-ocarina.com/): French language Nursery: 2610
+Ocarina School: French language Nursery: 2610
 
 [Sambo's Tots Playhouse & Playschool](http://www.sambostots.com/)
 
