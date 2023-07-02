@@ -41,11 +41,11 @@ A shared workspace for early startups and freelancers in Toul Kork district. Co-
 
 **TekHub**
 
-Located in The Asia Foundation office, [TekHub](http://tekhub.co/) is a sister coworking space of ImpactHub. One of the permanent tenants is Codingate, headed by Sopheak Monkol, a Cambodian entrepreneur named recently in Forbes magazine in 30 Under 30 2017.
+Located in The Asia Foundation office, TekHub is a sister coworking space of ImpactHub. One of the permanent tenants is Codingate, headed by Sopheak Monkol, a Cambodian entrepreneur named recently in Forbes magazine in 30 Under 30 2017.
 
 **Trybe**
 
-[Trybe](http://www.trybe.com/) is the latest coworking space. Also a maker-space, Trybe is located just opposite the French Institute Of Cambodia. It sets itself apart from Emerald Hub, ImpactHub, and TekHub for it’s a place where people make things (hardware like 3D printing and Arduino programming). ARC Hub PNH and System Experts are the permanent tenants at Trybe.
+Trybe is the latest coworking space. Also a maker-space, Trybe is located just opposite the French Institute Of Cambodia. It sets itself apart from Emerald Hub, ImpactHub, and TekHub for it’s a place where people make things (hardware like 3D printing and Arduino programming). ARC Hub PNH and System Experts are the permanent tenants at Trybe.
 
 Sok Leap of System Experts, a technology consulting company, told me that “A modern coworking space has a lot to offer to startups. A hub for co-working, networking, and building things that matter. Fast and stable Internet is an integral part of the makerspace like Trybe.” Currently, System Experts manages the WiFi system for the whole Trybe, which uses Fiber Pro 50Mbps connection.
 
@@ -66,8 +66,6 @@ According to PlacesToWork.net, there are at least 15 best coworking spaces/cafes
 - [Regus co-working space in Phnom Penh](https://www.regus.com.kh/)
 - [The Desk](http://thedeskcambodia.com/)
 - [Outpost Cambodia](https://www.thegreenpenthouse.com/)
-
-![](https://cambopedia.com/wp-content/uploads/2022/06/remote_jobs-cambodia-768x1024.jpg)
 
 What makes Phnom Penh a smart city? And what makes you a smart commuter and traveler? While Phnom Penh doesn't have to be Asia's Silicon Valley, local entrepreneurs can look for inspiration from there, where startups want to change the world, the way we travel and commute to work.
 
