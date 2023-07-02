@@ -166,6 +166,5 @@ Cambodia's ministry of health announced that The Great Duke (formally the Interc
 **Also:**
 
 - [2020 coronavirus outbreak in Asia](https://en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Asia#Cambodia)
-- [Information related to COVID-19](https://corp.cambodia-airports.aero/en/corporate/information-related-covid-19) (Cambodia Airports)
 - [COVID-19 Information](https://kh.usembassy.gov/covid-19-information/) (U.S. Embassy in Cambodia)
 - [Coronavirus in Cambodia on Reddit forum community](https://www.reddit.com/r/cambodia/comments/f38nyj/coronavirus_in_cambodia/)
