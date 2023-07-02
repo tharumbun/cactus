@@ -220,7 +220,7 @@ Here's how to quickly check the schedule and ticket price for the ferry to the C
 
 <iframe src="https://www.google.com/maps/d/embed?mid=13VwGq-eg1oYk-li0gjt4-xMTnQs&amp;hl=en_US" width="640" height="480"></iframe>
 
-In Kampong Som the beach town, ferry operators like [Speed Ferry Cambodia™](http://speedferrycambodia.com/) and Happy Boat Tour offer the service to get you to the islands for USD 21 to USD 25 respectively. Another operator is [Island Speed Ferry Cambodia](http://www.islandspeedboatcambodia.com/), which provides you with Koh Rong ferry, Koh Rong Sanloem ferry, and M’pai Bay ferry trips.
+In Kampong Som the beach town, ferry operators like Speed Ferry Cambodia and Happy Boat Tour offer the service to get you to the islands for USD 21 to USD 25 respectively. Another operator is [Island Speed Ferry Cambodia](http://www.islandspeedboatcambodia.com/), which provides you with Koh Rong ferry, Koh Rong Sanloem ferry, and M’pai Bay ferry trips.
 
 You can take the ferry from Serendipity Pier in Sihanoukville. You can even get your fast ferry or slow boat ticket from SeaCambodia.
 
