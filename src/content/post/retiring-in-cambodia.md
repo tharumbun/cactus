@@ -9,7 +9,7 @@ Retiring in Cambodia can be a great option for those looking for a low-cost, fri
 
 Cambodia is a popular retirement destination for expats from many countries including the USA. It leads the way as an Asian country that makes it easy for expats to relocate and retire with the least amount of red tape, bureaucracy, and financial obligations. One of the most rewarding aspects of retiring in Cambodia is the opportunity to experience a unique culture and way of life. The country is full of friendly people, delicious food, and stunning natural beauty. The cost of living is also very low, making it an ideal place to retire on a budget. 
 
-    ![Phnom Penh](https://unsplash.com/photos/UHW5JUPVYls)  
+![Phnom Penh](https://unsplash.com/photos/UHW5JUPVYls)  
 
 However, it's important to note that Cambodia has its own set of challenges. For example, the healthcare system is not as advanced as in other countries. Also, while crime rates are relatively low in Cambodia compared to other countries in Southeast Asia, petty crime such as pickpocketing and bag snatching can be common. 
 
