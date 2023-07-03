@@ -11,7 +11,7 @@ To retire in Cambodia, you will need to obtain a retirement visa, also known as 
 
 [Books about Cambodia](https://cambopedia.com/best-books-about-cambodia/)
 
-### Some of the pros and cons of retiring in Cambodia:
+### Some of the pros and cons of retiring in Cambodia as a foreigner
 
 **Pros:**
 
@@ -33,12 +33,14 @@ To retire in Cambodia, you will need to obtain a retirement visa, also known as 
 * **Healthcare:** The healthcare system in Cambodia is not as developed as some other countries. However, there are a number of private hospitals in Cambodia that offer high-quality care.
 * **Safety:** Cambodia is generally a safe country, but it is important to be aware of the risks of petty crime.
 
-If you are considering retiring in Cambodia, I recommend doing some research and talking to other retirees who have lived there. This will help you to get a better understanding of the pros and cons of retiring in Cambodia and make an informed decision.
+### How much money do you need to retire in cambodia
 
 In terms of cost, retiring in Cambodia can be quite affordable compared to many other countries. The cost of living in Cambodia is relatively low, especially outside of major cities like Phnom Penh. Rent, food, transportation, and healthcare are generally less expensive compared to Western countries. However, it's important to note that costs can vary depending on your lifestyle choices and location within the country.
 
 As a rough estimate, a comfortable retirement in Cambodia can cost around $1,000 to $1,500 per month, excluding accommodation. This amount should cover basic living expenses, dining out occasionally, local transportation, and some entertainment. The cost can increase if you choose a more luxurious lifestyle or if you require specific medical treatments.
 
 It's worth noting that while Cambodia offers an affordable retirement option, it is still a developing country with some infrastructure challenges. Healthcare standards and accessibility can vary, and there may be limited English-speaking services in certain areas. It's advisable to research and visit Cambodia beforehand to assess whether it aligns with your retirement goals and expectations. Consulting with a lawyer or retirement specialist who is familiar with the requirements and procedures for retiring in Cambodia is also recommended.
+
+If you are considering retiring in Cambodia, I recommend doing some research and talking to other retirees who have lived there. This will help you to get a better understanding of the pros and cons of retiring in Cambodia and make an informed decision.
 
 Overall, retiring in Cambodia can be a great option for those who are looking for a low-cost, friendly, and culturally rich place to spend their golden years. However, it is important to be aware of the potential challenges before making the decision to retire there.
