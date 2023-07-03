@@ -9,7 +9,7 @@ Retiring in Cambodia can be a great option for those looking for a low-cost, fri
 
 To retire in Cambodia, you will need to obtain a retirement visa, also known as the "ER" (Economic) visa. The requirements for this visa may vary over time, so it's important to check with the Cambodian embassy or consulate in your home country for the most up-to-date information. Generally, you will need to provide proof of your retirement status, such as a pension statement or evidence of sufficient savings to support yourself in Cambodia.
 
-Here are some of the pros and cons of retiring in Cambodia:
+### Some of the pros and cons of retiring in Cambodia:
 
 **Pros:**
 
@@ -24,9 +24,7 @@ Here are some of the pros and cons of retiring in Cambodia:
 * Healthcare: The healthcare system in Cambodia is not as developed as some other countries, so it is important to have adequate health insurance before retiring there.
 * Corruption: Corruption is a problem in Cambodia, so it is important to be aware of the risks and take precautions.
 
-Overall, retiring in Cambodia can be a great option for those who are looking for a low-cost, friendly, and culturally rich place to spend their golden years. However, it is important to be aware of the potential challenges before making the decision to retire there.
-
-Here are some additional things to consider when thinking about retiring in Cambodia:
+### Things to consider when thinking about retiring in Cambodia:
 
 * **Visa requirements:** You will need to obtain a retirement visa in order to live in Cambodia permanently. The requirements for a retirement visa include being at least 55 years old and having a valid passport.
 * **Cost of living:** The cost of living in Cambodia varies depending on your lifestyle and location. However, you can expect to live comfortably on a budget of around $1,000 per month.
@@ -35,10 +33,10 @@ Here are some additional things to consider when thinking about retiring in Camb
 
 If you are considering retiring in Cambodia, I recommend doing some research and talking to other retirees who have lived there. This will help you to get a better understanding of the pros and cons of retiring in Cambodia and make an informed decision.
 
-
-
 In terms of cost, retiring in Cambodia can be quite affordable compared to many other countries. The cost of living in Cambodia is relatively low, especially outside of major cities like Phnom Penh. Rent, food, transportation, and healthcare are generally less expensive compared to Western countries. However, it's important to note that costs can vary depending on your lifestyle choices and location within the country.
 
 As a rough estimate, a comfortable retirement in Cambodia can cost around $1,000 to $1,500 per month, excluding accommodation. This amount should cover basic living expenses, dining out occasionally, local transportation, and some entertainment. The cost can increase if you choose a more luxurious lifestyle or if you require specific medical treatments.
 
 It's worth noting that while Cambodia offers an affordable retirement option, it is still a developing country with some infrastructure challenges. Healthcare standards and accessibility can vary, and there may be limited English-speaking services in certain areas. It's advisable to research and visit Cambodia beforehand to assess whether it aligns with your retirement goals and expectations. Consulting with a lawyer or retirement specialist who is familiar with the requirements and procedures for retiring in Cambodia is also recommended.
+
+Overall, retiring in Cambodia can be a great option for those who are looking for a low-cost, friendly, and culturally rich place to spend their golden years. However, it is important to be aware of the potential challenges before making the decision to retire there.
