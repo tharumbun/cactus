@@ -9,6 +9,8 @@ Retiring in Cambodia can be a great option for those looking for a low-cost, fri
 
 To retire in Cambodia, you will need to obtain a retirement visa, also known as the "ER" (Economic) visa. The requirements for this visa may vary over time, so it's important to check with the Cambodian embassy or consulate in your home country for the most up-to-date information. Generally, you will need to provide proof of your retirement status, such as a pension statement or evidence of sufficient savings to support yourself in Cambodia.
 
+[Books about Cambodia](https://cambopedia.com/best-books-about-cambodia/)
+
 ### Some of the pros and cons of retiring in Cambodia:
 
 **Pros:**
