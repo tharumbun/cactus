@@ -14,6 +14,7 @@ However, it's important to note that Cambodia has its own set of challenges. For
 To retire in Cambodia, you will need to obtain a retirement visa, also known as the "ER" (Economic) visa. The requirements for this visa may vary over time, so it's important to check with the Cambodian embassy or consulate in your home country for the most up-to-date information. Generally, you will need to provide proof of your retirement status, such as a pension statement or evidence of sufficient savings to support yourself in Cambodia.
 
 [Books about Cambodia](https://cambopedia.com/best-books-about-cambodia/)
+[Cambodia travel guides books](https://cambopedia.com/cambodia-travel-guide-books/)
 
 ### Some of the pros and cons of retiring in Cambodia as a foreigner
 
@@ -49,9 +50,14 @@ If you are considering retiring in Cambodia, I recommend doing some research and
 
 Overall, retiring in Cambodia can be a great option for those who are looking for a low-cost, friendly, and culturally rich place to spend their golden years. However, it is important to be aware of the potential challenges before making the decision to retire there.
 
+Also good to read:
 
 (1) Cambodia: 5 Best Places To Retire In Cambodia. https://wheretoretirecheaply.com/cambodia-5-best-places-to-retire-in-cambodia/.
+
 (2) Retiring in Cambodia | Expat Exchange. https://www.expatexchange.com/gd/7/211/Cambodia/Retire-Cambodia.
+
 (3) The Ultimate Guide to Retiring in Cambodia - Realestate.com.kh. https://www.realestate.com.kh/guides/guide-to-retirement-in-Cambodia/.
+
 (4) How to Retire in Cambodia: Costs, Visas and More - SmartAsset. https://smartasset.com/financial-advisor/retire-in-cambodia.
+
 (5) Retire To Cambodia: The Real Pros And Cons. https://wheretoretirecheaply.com/retire-to-cambodia-the-real-pros-and-cons/.
