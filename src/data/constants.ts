@@ -13,3 +13,5 @@ export const MENU_LINKS = [
 export const SOCIAL_LINKS = {
 	twitter: "https://twitter.com/cambopedia",
 };
+youtube: "https://www.youtube.com/@cambopedia",
+};
