@@ -5,7 +5,7 @@ description: There are a few reasons why TikTok has become popular in Cambodia
 tags: ["blog"]
 ---
 
-TikTok is popular in Cambodia for a number of reasons.
+TikTok is popular in Cambodia for a number of reasons. First of all, more and more Facebook users in Cambodia are moving to Tik Tok and Telegram for some reasons.
 
 As of 2021, TikTok was gaining popularity in Cambodia, especially among the younger generation. The app had become one of the most downloaded social media applications in the country, and its popularity continued to grow.
 
@@ -30,8 +30,6 @@ It is a great way to be creative. TikTok is a great platform for expressing your
 These are just a few of the reasons why TikTok is popular in Cambodia. If you are looking for a fun, easy, and creative way to express yourself, then TikTok is the perfect platform for you.
 
 ### 5 TikTok influencers from Cambodia with the most followers:
-
-\[to be updated\]
 
 These users are all known for their funny and creative videos, which have helped them to amass large followings. They are a great example of the popularity of TikTok in Cambodia, and they are inspiring others to create their own videos and share their own talents with the world.
 
