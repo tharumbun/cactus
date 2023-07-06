@@ -1,7 +1,7 @@
 ---
 title: "SEA Games 32 in Cambodia"
 publishDate: "28 May 2023"
-description: The first SEA Games in Cambodia
+description: Hosting the SEA Games is a major sporting event for Cambodia
 tags: ["blog"]
 ---
 ---
