@@ -8,9 +8,32 @@ Love shopping? How to get the best out of your shopping experience when in Phnom
 
 Remember that the price is negotiable, so don't be afraid to negotiate for a better deal. Keep in mind that a little bit of haggling can go a long way in getting a good deal and make a great purchase.
 
-Did you know that there are more than 30 markets where you can shop for local and imported products in Phnom Penh? This is a mini guide to buying and window shopping in the Cambodian colorful city. Whether you need to do your regular groceries shopping to electronics products, I have you covered.
+### Tips to keep in mind when shopping in Cambodia (especially Phnom Penh)
+
+By keeping these tips in mind, you can enjoy a pleasant and rewarding shopping experience in Cambodia while minimizing any potential issues.
+
+When shopping in Cambodia, there are a few things you should be aware of to ensure a positive and hassle-free experience. Here are some tips to keep in mind:
+
+Bargaining: Bargaining is a common practice in Cambodia, especially in local markets and smaller shops. Sellers often quote higher prices initially, so don't be afraid to negotiate for a lower price. However, remember to be polite and respectful during the bargaining process.
+
+Counterfeit goods: Be cautious when purchasing branded items at incredibly low prices, as Cambodia has a reputation for counterfeit goods. If a deal seems too good to be true, it probably is. Shop from reputable stores or authorized retailers to minimize the risk of purchasing counterfeit products.
+
+Quality and authenticity: Always inspect the quality and authenticity of the products you intend to purchase. This is particularly important when buying gemstones, textiles, handicrafts, and traditional souvenirs. Research and educate yourself about the particular item you wish to buy so that you can make an informed decision.
+
+Pickpocketing and theft: Like in any crowded tourist destination, be cautious about your belongings and stay vigilant to minimize the risk of pickpocketing or theft. Keep your bags and valuables close to you, preferably in front, and avoid displaying expensive items in public.
+
+Currency exchange: Cambodia's official currency is the Cambodian Riel (KHR), but US dollars are widely accepted and often preferred by tourists. It's a good idea to carry a mix of both currencies. Be cautious when receiving change in USD, as some vendors may try to give you counterfeit bills or shortchange you.
+
+Shop around: Before making a purchase, take some time to explore different shops and compare prices. The price of similar items can vary significantly from one shop to another, so it's worth checking multiple places to ensure you get the best deal.
+
+VAT refunds: If you plan to make significant purchases, inquire about the possibility of obtaining a Value Added Tax (VAT) refund. Certain stores participate in the VAT refund scheme for tourists, allowing you to claim a portion of the taxes paid on eligible goods upon departure.
+
+Cultural sensitivity: Cambodia has a rich cultural heritage, so it's essential to be respectful of local customs and traditions while shopping. Dress modestly, especially when visiting temples or religious sites. Avoid haggling aggressively or behaving disrespectfully towards vendors, as it can be seen as offensive.
+
 
 ### Markets and shopping malls in Phnom Penh
+
+This is a mini guide to buying and window shopping in the Cambodian colorful city. Whether you need to do your regular groceries shopping to electronics products, I have you covered.
 
 Did you know that there are more than 30 markets where you can shop for local and imported products in Phnom Penh? This is a mini guide to buying and window shopping in the Cambodian colorful city. All these selected Phnom Penh (and super) markets and shopping have their great selections and offerings. There is no single market that has everything for every buyer.
 
@@ -94,7 +117,7 @@ Bargaining is a common practice in Cambodia, particularly when shopping at marke
 6. Be aware of the local currency: Make sure you have a rough idea of the exchange rate and the local currency so you can make an informed offer and not get ripped off.
 7. Be aware of the cultural context: Be aware of the cultural context, it's not considered rude to bargain in Cambodia and it's a way to show interest in the product and respect for the seller.
 
-**A mini guide to shopping electronics and gadgets in Phnom Penh**
+### A mini guide to shopping electronics and gadgets in Phnom Penh
 
 Sometimes on a fine day the best thing to do is curl up with a good book — or every book, as the Kindle lets you do, without the distractions of a tablet. If you have your heart set on the latest Kindle Paperwhite, head over to Sweet Memory Store. Since 2012, the store has been the first choice for those who want to buy the best-selling e-book reader.
 
@@ -126,7 +149,7 @@ After Apple, Samsung, Huawei, and soon Motorolla are dominating the smartphone m
 
 The best smartphone: Apple iPhone vs. Google Pixel vs. Xiaomi smartphone In Phnom Penh, you have a lot of choices when it comes to buying an Apple products, either a MacBook, or an iPad, or an iPhone.
 
-The iPhone 7 became available as soon as Apple announced. Early customers can have their hands on the iPhone 7 as long as they're willing to pay the high price tag. Check out these three smart phone shops for iPhone prices and order: Sokly Phone Shop, HAKSE, Apsara Electronics.
+The iPhone became available as soon as Apple announced. Early customers can have their hands on the iPhone as long as they're willing to pay the high price tag. Check out these three smart phone shops for iPhone prices and order: Sokly Phone Shop, HAKSE, Apsara Electronics.
 
 Not an Apple iPhone fan? Then go for Android. Google made its own brand-name smartphone, which is called Pixel. It's been received positive reviews since its official launch in October this year. One of the downside of buying this Google's flagship smartphone in Cambodia's Phnom Penh is the price.
 
