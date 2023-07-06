@@ -386,5 +386,3 @@ Inside the Exchange Square Phnom Penh residents would go to the large Lucky Supe
 Close to Wat Phnom, this new commercial building, shopping mall, and office tower is clean and quiet with a lot of parking spaces underground. A nice place for coffee meeting and shopping, the Exchange Square is a bold, taller edition of the AEON mega mall.
 
 The Exchange Square is an interesting take for Cambodia as its slogan is "Where Cambodia Meets Hong Kong." Really? You decide.
-
-Over the past few years, I’ve visited most of the coffee outlets (below) to meet with friends and circles and for business meetings. My regular, favorite orders are espresso, Americano, and cold brew Sumatra coffee. Once in a while, I have this ristretto at Feel Good Coffee. For me and many coffee aficionados, the best café has to offer more than just the coffee, but in-store experience, one of which is a fast and stable Internet connection. If you’re looking for coffee shops with fast WiFi internet where you can do some remote work over your laptop, here’s a list of hand-picked coffee stores for you.

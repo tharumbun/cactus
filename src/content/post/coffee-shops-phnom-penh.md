@@ -5,6 +5,8 @@ description: In Phnom Penh, more and more cafés compete by offering
 tags: ["food"]
 ---
 
+Over the past few years, I’ve visited most of the coffee outlets (below) to meet with friends and circles and for business meetings. My regular, favorite orders are espresso, Americano, and cold brew Sumatra coffee. Once in a while, I have this ristretto at Feel Good Coffee. For me and many coffee aficionados, the best café has to offer more than just the coffee, but in-store experience, one of which is a fast and stable Internet connection.
+
 1. Brown Coffee - This coffee shop chain has several locations in Phnom Penh, known for its specialty coffee and good food. They have a cozy atmosphere and a friendly staff.
 2. Riel Coffee - This coffee shop is located in the trendy BKK1 neighborhood, and it is known for its specialty coffee and great brunch menu. They have a terrace seating option and a relaxing atmosphere.
 3. Blue Pumpkin - This café chain is popular in Phnom Penh, and it is known for its homemade ice cream and pastries. They offer a cozy atmosphere, and it's a good spot for a sweet treat.
