@@ -1,7 +1,7 @@
 ---
 title: "The best places to eat good noodles in Phnom Penh"
 publishDate: "3 July 2023"
-description: Retiring in Cambodia can be a great option for those
+description: If a dish of noodles is your favorite like mine
 tags: ["blog"]
 ---
 
