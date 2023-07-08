@@ -5,6 +5,30 @@ description: The most important holiday of the year is Khmer New Year
 tags: ["blog"]
 ---
 
+Cambodia has a number of public holidays throughout the year, many of which are religious or cultural in nature. If you are planning a trip to Cambodia, it is important to be aware of the public holidays, as many businesses and government offices may be closed on these days.
+
+### The most important public holidays in Cambodia
+
+
+ Khmer New Year (Bon Chol Chhnam Thmei): This is the most important holiday in Cambodia, and is celebrated over three days in April. It marks the end of the harvest season and the beginning of the new year.
+
+ Water Festival (Bon Om Touk): This festival is celebrated in November, and coincides with the full moon. It is a time for Cambodians to celebrate the end of the rainy season and the beginning of the dry season.
+
+ Pchum Ben: This is a 15-day festival that is celebrated in September or October. It is a time for Cambodians to pay their respects to their ancestors.
+
+ Royal Ploughing Ceremony: This ceremony is held in May, and is a traditional way to mark the beginning of the planting season.
+
+ Independence Day: This holiday is celebrated on November 9, and marks the day that Cambodia gained independence from France in 1953.
+
+In addition to these major holidays, there are also a number of other public holidays in Cambodia, such as:
+
+ New Year's Day (January 1): This is a global holiday that is celebrated in Cambodia.
+
+ International Women's Day (March 8): This is a global holiday that is celebrated in Cambodia to honor women's achievements.
+
+ Victory over Genocide Day (January 7): This holiday commemorates the end of the Khmer Rouge regime in Cambodia.
+
+
 How many public holidays does Cambodia have? It depends. In 2023, the number of days off are less as the holidays coincide with the weekends.
 
 The most important holiday of the year is Khmer New Year (Bon Chol Chhnam Thmei in Khmer) in mid April.
