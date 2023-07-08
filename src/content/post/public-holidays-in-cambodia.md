@@ -9,7 +9,6 @@ Cambodia has a number of public holidays throughout the year, many of which are 
 
 ### The most important public holidays in Cambodia
 
-
  Khmer New Year (Bon Chol Chhnam Thmei): This is the most important holiday in Cambodia, and is celebrated over three days in April. It marks the end of the harvest season and the beginning of the new year.
 
  Water Festival (Bon Om Touk): This festival is celebrated in November, and coincides with the full moon. It is a time for Cambodians to celebrate the end of the rainy season and the beginning of the dry season.
@@ -36,6 +35,36 @@ The most important holiday of the year is Khmer New Year (Bon Chol Chhnam Thmei 
 This is a complete list of Cambodia's national public holidays in 2023, 2022, 2021, 2020, 2019, 2018, and 2017 (from ministry of labor). The day(s) off is/are meant for government officials, although businesses have to observe these national holidays. Cambodian people enjoy about 20 days of public holidays in Cambodia, probably more than other countries in the world.
 
 [Books about Cambodia](https://cambopedia.com/best-books-about-cambodia/)
+
+### Public holidays in Cambodia in 2024
+
+Please note that these dates are subject to change, so it is always best to check with the Cambodian government or a local source for the most up-to-date information.
+
+ New Year's Day - January 1
+
+ Victory over Genocide Day - January 7
+
+ International Women's Day - March 8
+
+ Khmer New Year - April 14, 15, 16, 17
+
+ International Labour Day - May 1
+
+ King's Birthday - May 13, 14
+
+ Royal Plowing Ceremony - May 20
+
+ Visak Bochea Day - May 22, 23
+
+ Constitution Day - September 24
+
+ Ancestors' Day - October 1, 2, 3
+
+ Commemoration Day of King's Father - October 15
+
+ Independence Day - November 9
+
+ Water Festival - November 14, 15, 16
 
 ### Holidays and Observances in Cambodia in 2023
 
