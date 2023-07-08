@@ -35,9 +35,15 @@ It's always a good idea to check the [U.S. Department of State website](https://
 **5 potential reasons someone might consider moving to Cambodia:**
 
 1. Cost of Living: Cambodia is known for being one of the most affordable countries in Southeast Asia. The cost of living is significantly lower than in many developed countries, which can make it a great option for retirees, digital nomads, or others looking to stretch their budget.
+
+[Retiring in Cambodia](https://cambopedia.com/retiring-in-cambodia/)
+
 2. Friendly People: Cambodians are known for being friendly and hospitable towards foreigners. The culture is generally laid-back, and people are happy to help newcomers adjust to life in the country.
+
 3. Natural Beauty: Cambodia is home to some of the most beautiful landscapes in Southeast Asia. From the lush jungles in the east to the pristine beaches in the south, there is plenty to explore and enjoy.
+
 4. Rich Culture: Cambodia has a rich and storied culture, with a long history dating back to the Angkor era. The country is home to many ancient temples and other historic sites, and traditional Khmer culture is still very much alive and celebrated today.
+
 5. Growing Economy: Cambodia's economy has been growing rapidly in recent years, driven by a combination of tourism, manufacturing, and services sectors. This has created new job opportunities and business opportunities for those looking to move to the country.
 
 It's worth noting that as with any country, living in Cambodia may have its own set of challenges, such as language barriers, limited infrastructure, and cultural differences. But for those who are open to new experiences and willing to adapt, Cambodia can be an incredibly rewarding place to live.

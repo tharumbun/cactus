@@ -2,7 +2,7 @@
 title: "The best places to eat good noodles in Phnom Penh"
 publishDate: "3 July 2023"
 description: If a dish of noodles is your favorite like mine
-tags: ["blog"]
+tags: ["food"]
 ---
 
 In Phnom Penh, there are so many choices when it comes to eating good food. If a dish of noodles is your favorite like mine, then let's find out some of the best restaurants in town. What you will find in my selections are: Chinese noodle styles, Cambodian noodle (Num Banh Chok), Ramen, and Udon.

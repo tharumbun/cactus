@@ -2,7 +2,7 @@
 title: "The secrets of Khmer food"
 publishDate: "28 June 2023"
 description: Cambodian food is quite underestimated compared with Thai
-tags: ["blog"]
+tags: ["food"]
 ---
 
 Cambodian food is quite underestimated compared with Thai or Vietnamese food. And it it is way more than Beef Lok Lak and Fish Amok (although the latter is much better than its equivalent, the Thai Hor Mok). The variety of Samlors, Khmer soups, is nearly endless, and then there are grilled dishes and the exotic ones, like snake soup and the fried spiders.
