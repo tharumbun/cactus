@@ -71,7 +71,7 @@ There are a few things that expats should be aware of when it comes to internet 
 
 ### Starlink available in Cambodia? What's the price?
 
-Starlink is not yet available in Cambodia, but SpaceX, the company that owns Starlink, has said that it plans to expand the service to Cambodia in 2023. In fact, there is already one known user of Starlink in Cambodia, a vanilla farmer named Dara Chan. He installed a Starlink dish on his farm in Veal Renh, Preah Sihanouk province, in early 2023.
+Starlink is not yet available in Cambodia, but SpaceX, the company that owns Starlink, has said that it plans to expand the service to Cambodia in 2023. In fact, there is already one known user of Starlink in Cambodia, a vanilla farmer named Dara Chan. He installed a Starlink dish (using its global roaming service for $200/month) on his farm in Veal Renh, Preah Sihanouk province, in early 2023.
 
 Source: [Cambodia’s First Starlink Deployed from Vanilla Farm](https://kiripost.com/stories/cambodia-first-space-x-starlink-deployed-from-vanilla-farm-dara-chan)
 
