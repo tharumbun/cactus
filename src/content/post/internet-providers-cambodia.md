@@ -69,6 +69,18 @@ There are a few things that expats should be aware of when it comes to internet 
 4. Cost: Internet prices in Cambodia can vary greatly, so it’s important to compare different providers and packages before signing up. Consider the cost of equipment, installation fees, and monthly fees when comparing providers.
 5. Availability of international content: Some ISPs in Cambodia may limit or restrict access to international websites and services. This can be due to government regulations or the ISP’s own policies. Be sure to research the ISP’s policies and availability of international content before signing up.
 
+### Starlink available in Cambodia? What's the price?
+
+Starlink is not yet available in Cambodia, but SpaceX, the company that owns Starlink, has said that it plans to expand the service to Cambodia in 2023. In fact, there is already one known user of Starlink in Cambodia, a vanilla farmer named Dara Chan. He installed a Starlink dish on his farm in Veal Renh, Preah Sihanouk province, in early 2023.
+
+Source: [Cambodia’s First Starlink Deployed from Vanilla Farm](https://kiripost.com/stories/cambodia-first-space-x-starlink-deployed-from-vanilla-farm-dara-chan)
+
+Starlink is a satellite internet service that uses a constellation of low-orbit satellites to provide high-speed internet access to areas with limited or no access to traditional internet infrastructure. This makes it a potential game-changer for Cambodia, which has a large rural population that is often underserved by traditional internet providers.
+
+If Starlink is successful in Cambodia, it could have a significant impact on the country's economy and development. It could help to bridge the digital divide, improve education and healthcare, and boost economic growth.
+
+Of course, there are also some potential challenges that need to be addressed before Starlink can be widely adopted in Cambodia. These include the cost of the service, the availability of compatible devices, and the potential for interference with other satellite systems.
+
 ### Shared versus dedicated Internet
 
 Most home users use shared Internet plan offered by their ISP. Shared Internet means that one pipeline to your area for your neighbors, including you. The more users in your area throttle the Internet bandwidth, the slower Internet speed you experience. Dedicated Internet access is like having your own personal lane on the Information Superhighway as opposed to sharing the same traffic lanes as everyone else. So when you have a personal, dedicated lane you will be traveling at exactly the speed you were guaranteed. Technically, fiber optics are often the delivery method of choice for the ISPs to deploy.
